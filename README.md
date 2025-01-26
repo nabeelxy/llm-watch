@@ -1,4 +1,4 @@
-# Keep up with LLMs
+# Keeping up with LLMs
 
 Since  the launch of ChatGPT in November 2022, LLMs (Large Language Models) and AI have been progressing so rapidly that it is often overwhelming to keeping up the developments in both the industry and the academia. This repo serves as an easy guide on the LLM/AI landscape for busy people.
 
@@ -14,8 +14,8 @@ Since  the launch of ChatGPT in November 2022, LLMs (Large Language Models) and 
 | Date | ID | Title | Venue | Materials | Tags | Short Summary | Summary |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Jan 2025 | Agent-R | Agent-R: Training Language Model Agents to Reflect via Iterative Self-Training | arXiv | [Paper](https://arxiv.org/pdf/2501.11425) | agent, self-training | This paper by ByteDance proposes a framework for training LLMs to perform on-the-fly self-correction in interactive environments. Unlike traditional methods that reward or penalize actions solely based on correctness, their approach leverages Monte Carlo Tree Search (MCTS) to construct training samples that recover correct trajectories from erroneous ones. This helps to recover from mistakes and avoid unproductive loops, outperforming existing methods.| [Note](agent-r.md) |
-| Jan 2025 | DeepSeek-R1 | DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning | arXiv | [Paper](https://arxiv.org/pdf/2501.12948) | llm, rl, cot, gpro, moe, mla | | |
-| Dec 2024 | DeepSeek-V3 | DeepSeek-V3 Technical Report | arXiv | [Paper](https://arxiv.org/pdf/2412.19437) | llm, rl, mlha, moe, mtp | | | 
+| Jan 2025 | DeepSeek-R1 | DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning | arXiv | [Report](https://arxiv.org/pdf/2501.12948) | llm, rl, cot, gpro, moe, mla | | [Note](deepseek-r1.md)|
+| Dec 2024 | DeepSeek-V3 | DeepSeek-V3 Technical Report | arXiv | [Report](https://arxiv.org/pdf/2412.19437) | llm, rl, mlha, moe, mtp | | [Note](deepseek-v3.md)| 
 
 
 ### Benchmarks
@@ -26,6 +26,7 @@ Since  the launch of ChatGPT in November 2022, LLMs (Large Language Models) and 
 ### Small Language Models
 | Date | ID | Title | Venue | Materials | Tags | Short Summary | Summary |
 | --- | --- | --- | --- | --- | --- | --- | --- |
+| Dec 2024 | Phi-4 | Phi-4 Technical Report | arXiv | [Report](https://arxiv.org/pdf/2412.08905) | sml, distillation, synthetic data | | [Note](phi-4.md) |
 
 ### LLM/AI Engineering
 | Date | ID | Title | Venue | Materials | Tags | Short Summary | Summary |
