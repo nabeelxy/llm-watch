@@ -8,7 +8,14 @@ Since  the launch of ChatGPT in November 2022, LLMs (Large Language Models) and 
 * LLMs: Beginners guide
 
 ## Recent Important Publications
-### Large Language Models
+
+### Small Lange Models
+## Recent Publications
+| Date | ID | Title | Venue | Materials | Tags | Short Summary | Summary |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+### Benchmarks
 ## Recent Publications
 | Date | ID | Title | Venue | Materials | Tags | Short Summary | Summary |
 | --- | --- | --- | --- | --- | --- | --- | --- |
