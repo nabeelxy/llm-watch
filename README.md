@@ -31,6 +31,7 @@ Since  the launch of ChatGPT in November 2022, LLMs (Large Language Models) and 
 ### Small Language Models
 | Date | ID | Title | Venue | Materials | Tags | Short Summary | Summary |
 | --- | --- | --- | --- | --- | --- | --- | --- |
+| Feb 2025 | 1B-LLM | Can 1B LLM Surpass 405B LLM? Rethinking Compute-Optimal Test-Time Scaling | arXiv | [Paper]() | test-time scaling (TTS), math-500, aime24, process reward models (PRMs) | | |
 | Dec 2024 | Phi-4 | Phi-4 Technical Report | arXiv | [Report](https://arxiv.org/pdf/2412.08905) | sml, distillation, synthetic data | | [Note](phi-4.md) |
 
 ### LLM/AI Engineering
