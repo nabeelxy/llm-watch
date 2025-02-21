@@ -28,6 +28,10 @@ Since  the launch of ChatGPT in November 2022, LLMs (Large Language Models) and 
 | Dec 2024 | DeepSeek-V3 | DeepSeek-V3 Technical Report | arXiv | [Report](https://arxiv.org/pdf/2412.19437) | llm, rl, mlha, moe, mtp | | [Note](deepseek-v3.md)| 
 | Sep 2024 | Adversarial-LLM | Assessing Adversarial Robustness of Large Language Models: An Empirical Study | arXiv | [Paper](https://arxiv.org/pdf/2405.02764) | llm, aml, robustness | | |
 
+### RAG
+| Date | ID | Title | Venue | Materials | Tags | Short Summary | Summary |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Feb 2025 | KnowPath-RAG | KnowPath: Knowledge-enhanced Reasoning via LLM-generated Inference Paths over Knowledge Graphs | arXiv | [Paper](https://arxiv.org/abs/2502.12029) | RAG, knowledge graph, hullicination, reasoning paths | | |
 
 ### Benchmarks
 | Date | ID | Title | Venue | Materials | Tags | Short Summary | Summary |
