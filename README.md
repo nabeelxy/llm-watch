@@ -55,3 +55,7 @@ Since  the launch of ChatGPT in November 2022, LLMs (Large Language Models) and 
 ### LLM/AI Engineering
 | Date | ID | Title | Venue | Materials | Tags | Short Summary | Summary |
 | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+### Blog posts
+* [Article](https://thomwolf.io/blog/scientific-ai.html) The Einstein AI model by Thomas Wolf, CSO, Huggingface. Thomas discusses the AI's current path of producing "obidient students" as opposed to "revolutionaries".
