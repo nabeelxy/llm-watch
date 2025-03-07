@@ -33,6 +33,7 @@ Since  the launch of ChatGPT in November 2022, LLMs (Large Language Models) and 
 | Date | ID | Title | Venue | Materials | Tags | Short Summary | Summary |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Jan 2025 | Agent-SQL | QUERYING DATABASES WITH FUNCTION CALLING | arXiv | [Paper](https://arxiv.org/pdf/2502.00032) | Agent, text-to-sql, function calling, json | | |
+| Mar 2023 | ReAct | REACT: SYNERGIZING REASONING AND ACTING IN LANGUAGE MODELS | ICLR 2023 | [Paper](https://arxiv.org/pdf/2210.03629) | Agent, ReAct pattern | | |
 
 ### RAG
 | Date | ID | Title | Venue | Materials | Tags | Short Summary | Summary |
