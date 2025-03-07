@@ -29,6 +29,11 @@ Since  the launch of ChatGPT in November 2022, LLMs (Large Language Models) and 
 | Dec 2024 | DeepSeek-V3 | DeepSeek-V3 Technical Report | arXiv | [Report](https://arxiv.org/pdf/2412.19437) | llm, rl, mlha, moe, mtp | | [Note](reviews/deepseek-v3.md)| 
 | Sep 2024 | Adversarial-LLM | Assessing Adversarial Robustness of Large Language Models: An Empirical Study | arXiv | [Paper](https://arxiv.org/pdf/2405.02764) | llm, aml, robustness | | |
 
+### Agents
+| Date | ID | Title | Venue | Materials | Tags | Short Summary | Summary |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Jan 2025 | Agent-SQL | QUERYING DATABASES WITH FUNCTION CALLING | arXiv | [Paper](https://arxiv.org/pdf/2502.00032) | Agent, text-to-sql, function calling, json | | |
+
 ### RAG
 | Date | ID | Title | Venue | Materials | Tags | Short Summary | Summary |
 | --- | --- | --- | --- | --- | --- | --- | --- |
