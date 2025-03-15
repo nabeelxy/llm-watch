@@ -62,4 +62,5 @@ Since  the launch of ChatGPT in November 2022, LLMs (Large Language Models) and 
 
 
 ### Blog posts
+* [Article](https://www.latent.space/p/why-mcp-won) Model Context Protocol, Summary of the AI Engineer summit talk by Anthropic.
 * [Article](https://thomwolf.io/blog/scientific-ai.html) The Einstein AI model by Thomas Wolf, CSO, Huggingface. Thomas discusses the AI's current path of producing "obidient students" as opposed to "revolutionaries".
