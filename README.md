@@ -69,4 +69,6 @@ Since  the launch of ChatGPT in November 2022, LLMs (Large Language Models) and 
 * [2025-03-12] [Blog](https://blog.google/technology/developers/gemma-3/) Google's Gemma 3 release note.
 * [2025-03-11] [Documentation](https://platform.openai.com/docs/guides/agents-sdk) OpenAI's Agent SDK guide.
 * [2025-03-10] [Article](https://www.latent.space/p/why-mcp-won) Model Context Protocol, Summary of the AI Engineer summit talk by Anthropic.
+* [2025-03-01] [Youtube](https://www.youtube.com/watch?v=kQmXtrmQ5Zg) MCP workshop by Mahesh Murag of Anthropic at AI Engineer summit.
 * [2025-02-26] [Article](https://thomwolf.io/blog/scientific-ai.html) The Einstein AI model by Thomas Wolf, CSO, Huggingface. Thomas discusses the AI's current path of producing "obidient students" as opposed to "revolutionaries".
+* [2024-11-25] [Article](https://www.anthropic.com/news/model-context-protocol) MCP (Model Context Protocol) by Anthropic.
