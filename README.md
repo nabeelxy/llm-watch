@@ -67,6 +67,7 @@ Since  the launch of ChatGPT in November 2022, LLMs (Large Language Models) and 
 | Mar 2025 | REALM | REALM: A Dataset of Real-World LLM Use Cases | arXiv | [Paper](https://arxiv.org/pdf/2503.18792v1) | LLM applications, use cases, news | | |
 
 ### Blog posts
+* [2025-04-03] [Blog](https://eugeneyan.com/writing/recsys-llm/) Improving the recommendation systems and search in the age of LLMs, by Eugene Yan.
 * [2025-03-12] [Blog](https://blog.google/technology/developers/gemma-3/) Google's Gemma 3 release note.
 * [2025-03-11] [Documentation](https://platform.openai.com/docs/guides/agents-sdk) OpenAI's Agent SDK guide.
 * [2025-03-10] [Article](https://www.latent.space/p/why-mcp-won) Model Context Protocol, Summary of the AI Engineer summit talk by Anthropic.
