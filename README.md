@@ -77,4 +77,5 @@ Since  the launch of ChatGPT in November 2022, LLMs (Large Language Models) and 
 * [2025-03-01] [Youtube](https://www.youtube.com/watch?v=kQmXtrmQ5Zg) MCP workshop by Mahesh Murag of Anthropic at AI Engineer summit.
 * [2025-02-26] [Article](https://thomwolf.io/blog/scientific-ai.html) The Einstein AI model by Thomas Wolf, CSO, Huggingface. Thomas discusses the AI's current path of producing "obidient students" as opposed to "revolutionaries".
 * [2025-02-06] [Article](https://cloudsecurityalliance.org/blog/2025/02/06/agentic-ai-threat-modeling-framework-maestro) Agentic AI threat modeling framework - MAESTRO.
+* [2025-02-01] [White Paper](https://www.kaggle.com/whitepaper-agent-companion) Agents Companion by Google.
 * [2024-11-25] [Article](https://www.anthropic.com/news/model-context-protocol) MCP (Model Context Protocol) by Anthropic.
