@@ -38,7 +38,7 @@ Since  the launch of ChatGPT in November 2022, LLMs (Large Language Models) and 
 | Jun 2022 | Switch-Transformers | Switch Transformers: Scaling to Trillion Parameter Models with Simple and Efficient Sparsity | arXiv | [Paper](https://arxiv.org/pdf/2101.03961) | transformers, moe | | |
 
 ### Agents
-| Date | ID | Title | Venue | Materials | Tags | Short Summary | Summary |
+| Date | ID | Title | Venue | Materials | Tags | Code | Summary |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Feb 2025 | Agent-Planning-Survey | Understanding the planning of LLM agents: A survey | arXiv | [Paper](https://arxiv.org/pdf/2402.02716) | planning, survey | | |
 | Jan 2025 | Agent-SQL | QUERYING DATABASES WITH FUNCTION CALLING | arXiv | [Paper](https://arxiv.org/pdf/2502.00032) | Agent, text-to-sql, function calling, json | | |
@@ -54,16 +54,16 @@ Since  the launch of ChatGPT in November 2022, LLMs (Large Language Models) and 
 | Date | ID | Title | Venue | Materials | Tags | Code | Summary |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Jan 2025 | HALoGEN | HALOGEN : Fantastic LLM Hallucinations and Where to Find Them | arXiv | [Paper](https://arxiv.org/pdf/2501.08292) | benchmark, hallucination |  | [Note](reviews/halogen.md) |
-| 2025 | HLE | Humanity's Last Exam |  | [Paper](https://static.scale.com/uploads/654197dc94d34f66c0f5184e/Publication%20Ready%20Humanity%27s%20Last%20Exam.pdf) | benchmark, LLM | Researcher from Scale AI, and Center for AI Safety came up with a benchmark consistings of 3000 question across dozens of subjects, including mathematics, humanities, and the natural science. DeepSeek-R1 is outperforming other state of the art models like O1 and Gemini 2 Flash Thinking. However, it should be noted that all models scored less than 10% accuracy on the benchmark raising the usefulness of the comparison. | [Note](reviews/hle.md) |
+| 2025 | HLE | Humanity's Last Exam |  | [Paper](https://static.scale.com/uploads/654197dc94d34f66c0f5184e/Publication%20Ready%20Humanity%27s%20Last%20Exam.pdf) | benchmark, LLM |  | [Note](reviews/hle.md) |
 
 ### Small Language Models
-| Date | ID | Title | Venue | Materials | Tags | Short Summary | Summary |
+| Date | ID | Title | Venue | Materials | Tags | Code | Summary |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Feb 2025 | 1B-LLM | Can 1B LLM Surpass 405B LLM? Rethinking Compute-Optimal Test-Time Scaling | arXiv | [Paper]() | test-time scaling (TTS), math-500, aime24, process reward models (PRMs) | | |
 | Dec 2024 | Phi-4 | Phi-4 Technical Report | arXiv | [Report](https://arxiv.org/pdf/2412.08905) | sml, distillation, synthetic data | | [Note](reviews/phi-4.md) |
 
 ### LLM/AI Applciations/Engineering
-| Date | ID | Title | Venue | Materials | Tags | Short Summary | Summary |
+| Date | ID | Title | Venue | Materials | Tags | Code | Summary |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Mar 2025 | REALM | REALM: A Dataset of Real-World LLM Use Cases | arXiv | [Paper](https://arxiv.org/pdf/2503.18792v1) | LLM applications, use cases, news | | |
 
