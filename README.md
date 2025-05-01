@@ -46,14 +46,14 @@ Since  the launch of ChatGPT in November 2022, LLMs (Large Language Models) and 
 | Mar 2023 | ReAct | REACT: SYNERGIZING REASONING AND ACTING IN LANGUAGE MODELS | ICLR 2023 | [Paper](https://arxiv.org/pdf/2210.03629) | Agent, ReAct pattern | | |
 
 ### RAG
-| Date | ID | Title | Venue | Materials | Tags | Short Summary | Summary |
+| Date | ID | Title | Venue | Materials | Tags | Code | Summary |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Feb 2025 | KnowPath-RAG | KnowPath: Knowledge-enhanced Reasoning via LLM-generated Inference Paths over Knowledge Graphs | arXiv | [Paper](https://arxiv.org/abs/2502.12029) | RAG, knowledge graph, hullicination, reasoning paths | | |
 
 ### Benchmarks
-| Date | ID | Title | Venue | Materials | Tags | Short Summary | Summary |
+| Date | ID | Title | Venue | Materials | Tags | Code | Summary |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Jan 2025 | HALoGEN | HALOGEN : Fantastic LLM Hallucinations and Where to Find Them | arXiv | [Paper](https://arxiv.org/pdf/2501.08292) | benchmark, hallucination | Hallucination is a persistent issue in LLMs. HALoGEN benchmark shows SoTA models hallucinate up to 86% of the time. The benchmark consists of 10K prompts across nine domains. How does it detect haullucination? It breaks the response into atomic units and performs verifications against trusted knowledge sources. For example, imports in a Python code is verified against PyPI index. | [Note](reviews/halogen.md) |
+| Jan 2025 | HALoGEN | HALOGEN : Fantastic LLM Hallucinations and Where to Find Them | arXiv | [Paper](https://arxiv.org/pdf/2501.08292) | benchmark, hallucination |  | [Note](reviews/halogen.md) |
 | 2025 | HLE | Humanity's Last Exam |  | [Paper](https://static.scale.com/uploads/654197dc94d34f66c0f5184e/Publication%20Ready%20Humanity%27s%20Last%20Exam.pdf) | benchmark, LLM | Researcher from Scale AI, and Center for AI Safety came up with a benchmark consistings of 3000 question across dozens of subjects, including mathematics, humanities, and the natural science. DeepSeek-R1 is outperforming other state of the art models like O1 and Gemini 2 Flash Thinking. However, it should be noted that all models scored less than 10% accuracy on the benchmark raising the usefulness of the comparison. | [Note](reviews/hle.md) |
 
 ### Small Language Models
