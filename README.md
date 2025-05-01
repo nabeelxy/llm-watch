@@ -68,7 +68,7 @@ Since  the launch of ChatGPT in November 2022, LLMs (Large Language Models) and 
 | Mar 2025 | REALM | REALM: A Dataset of Real-World LLM Use Cases | arXiv | [Paper](https://arxiv.org/pdf/2503.18792v1) | LLM applications, use cases, news | | |
 
 ### Blog posts
-* [2025-05-15] [Report](https://knightcolumbia.org/content/ai-as-normal-technology) AI as a normal technology by Arvind Narayanan and Sayash Kapoor.
+* [2025-04-15] [Report](https://knightcolumbia.org/content/ai-as-normal-technology) AI as a normal technology by Arvind Narayanan and Sayash Kapoor.
 * [2025-04-13] [Blog](https://www.newsletter.swirlai.com/p/mcp-vs-a2a-friends-or-foes) MCP vs. A2A: Friends or Foes?, by Aurimas Griciunas (SwirlAI Newsletter)
 * [2025-04-11] [Report](https://cdn.openai.com/business-guides-and-resources/ai-in-the-enterprise.pdf) AI in the enterprise by Open AI.
 * [2025-04-03] [Blog](https://eugeneyan.com/writing/recsys-llm/) Improving the recommendation systems and search in the age of LLMs, by Eugene Yan.
