@@ -1,1 +1,1 @@
-
+Hallucination is a persistent issue in LLMs. HALoGEN benchmark shows SoTA models hallucinate up to 86% of the time. The benchmark consists of 10K prompts across nine domains. How does it detect haullucination? It breaks the response into atomic units and performs verifications against trusted knowledge sources. For example, imports in a Python code is verified against PyPI index.
