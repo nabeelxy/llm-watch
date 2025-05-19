@@ -14,6 +14,7 @@ Since  the launch of ChatGPT in November 2022, LLMs (Large Language Models) and 
 | Date | ID | Title | Venue | Materials | Tags | Code | Summary |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Aug 2025 | Package_hallucination | We Have a Package for You! A Comprehensive Analysis of Package Hallucinations by Code Generating LLMs | Usenix Security 2025 | [Paper](https://arxiv.org/pdf/2406.10279) | llm, hallucination, packages, code generation | | |
+| May 2025 | AlphaEvolve | AlphaEvolve: A coding agent for scientific and algorithmic discovery | DeepMind | [Paper](https://storage.googleapis.com/deepmind-media/DeepMind.com/Blog/alphaevolve-a-gemini-powered-coding-agent-for-designing-advanced-algorithms/AlphaEvolve.pdf) [Blog](https://deepmind.google/discover/blog/alphaevolve-a-gemini-powered-coding-agent-for-designing-advanced-algorithms/)| evolution, auto discovery, research | | |
 | Mar 2025 | Latent-Thoughts | Reasoning to Learn from Latent Thoughts | arXiv | [Paper](https://arxiv.org/pdf/2503.18866) | synthetic data generation, latent thoughts | | |
 | Mar 2025 | SuperBPE | SuperBPE: Space Travel for Language Models | arXiv | [Paper](https://arxiv.org/pdf/2503.13423) | tokenization, multi-word tokens | | |
 | Mar 2025 | Chain-of-Tools | Chain-of-Tools: Utilizing Massive Unseen Tools in the CoT Reasoning of Frozen Language Models | arXiv | [Paper](https://www.arxiv.org/pdf/2503.16779) | CoT, tools | | |
