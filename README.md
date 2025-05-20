@@ -58,6 +58,7 @@ If you are interested in keeping up with LLM/Agent threat landscape, I encourage
 ### Benchmarks
 | Date | ID | Title | Venue | Materials | Tags | Code | Summary |
 | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 2025 | HealthBench | HealthBench: Evaluating Large Language Models Towards Improved Human Health | OpenAI | [Paper](https://cdn.openai.com/pdf/bd7a39d5-9e9f-47b3-903c-8b847ca650c7/healthbench_paper.pdf) [Blog](https://openai.com/index/healthbench/) | 5K conversaions, rubrics | | |
 | Apr 2025 | Leaderboard-Illustion | The LeaderBoard Illusion | arXiv | [Paper](https://arxiv.org/pdf/2504.20879) | Chatbot Arean, Eval | | |
 | Jan 2025 | HALoGEN | HALOGEN : Fantastic LLM Hallucinations and Where to Find Them | arXiv | [Paper](https://arxiv.org/pdf/2501.08292) | benchmark, hallucination |  | [Note](reviews/halogen.md) |
 | 2025 | HLE | Humanity's Last Exam |  | [Paper](https://static.scale.com/uploads/654197dc94d34f66c0f5184e/Publication%20Ready%20Humanity%27s%20Last%20Exam.pdf) | benchmark, LLM |  | [Note](reviews/hle.md) |
