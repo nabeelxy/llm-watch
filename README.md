@@ -16,6 +16,7 @@ If you are interested in keeping up with LLM/Agent threat landscape, I encourage
 | Date | ID | Title | Venue | Materials | Tags | Code | Summary |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Aug 2025 | Package_hallucination | We Have a Package for You! A Comprehensive Analysis of Package Hallucinations by Code Generating LLMs | Usenix Security 2025 | [Paper](https://arxiv.org/pdf/2406.10279) | llm, hallucination, packages, code generation | | |
+| May 2025 | KumoRFM | KumoRFM: A Foundation Model for In-Context Learning on Relational Data | Kumo | [Paper](https://kumo.ai/research/kumo_relational_foundation_model.pdf) | relational, foundation model | | |
 | May 2025 | AlphaEvolve | AlphaEvolve: A coding agent for scientific and algorithmic discovery | DeepMind | [Paper](https://storage.googleapis.com/deepmind-media/DeepMind.com/Blog/alphaevolve-a-gemini-powered-coding-agent-for-designing-advanced-algorithms/AlphaEvolve.pdf) [Blog](https://deepmind.google/discover/blog/alphaevolve-a-gemini-powered-coding-agent-for-designing-advanced-algorithms/)| evolution, auto discovery, research | | |
 | Mar 2025 | Latent-Thoughts | Reasoning to Learn from Latent Thoughts | arXiv | [Paper](https://arxiv.org/pdf/2503.18866) | synthetic data generation, latent thoughts | | |
 | Mar 2025 | SuperBPE | SuperBPE: Space Travel for Language Models | arXiv | [Paper](https://arxiv.org/pdf/2503.13423) | tokenization, multi-word tokens | | |
