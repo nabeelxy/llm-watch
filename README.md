@@ -2,7 +2,7 @@
 
 Since  the launch of ChatGPT in November 2022, LLMs (Large Language Models) and AI have been progressing so rapidly that it is often overwhelming to keeping up with the developments in both the industry and the academia. This repo serves as an easy guide on the LLM/AI landscape for busy people.
 
-If you are interested in keeping up with LLM/Agent threat landscape, I encourage you to check my other repo on [LLM Security] (https://github.com/nabeelxy/ai-security-guide/tree/main/security_for_ai/llm_security) and [AI Red Teaming](https://github.com/nabeelxy/ai-security-guide/tree/main/security_for_ai/red_teaming), [Agent Security](https://github.com/nabeelxy/ai-security-guide/tree/main/security_for_ai/agents_security) and [RAG Security](https://github.com/nabeelxy/ai-security-guide/tree/main/security_for_ai/rag_security).
+If you are interested in keeping up with LLM/Agent threat landscape, I encourage you to check my other repo on [LLM Security](https://github.com/nabeelxy/ai-security-guide/tree/main/security_for_ai/llm_security) and [AI Red Teaming](https://github.com/nabeelxy/ai-security-guide/tree/main/security_for_ai/red_teaming), [Agent Security](https://github.com/nabeelxy/ai-security-guide/tree/main/security_for_ai/agents_security) and [RAG Security](https://github.com/nabeelxy/ai-security-guide/tree/main/security_for_ai/rag_security).
 
 ## Primers
 * LLMs: Beginners guide
