@@ -8,6 +8,7 @@ If you are interested in keeping up with LLM/Agent threat landscape, I encourage
 * LLMs: Beginners guide
 * RAG: Beginner's guide
 * LLM Agents: Beginner's guide
+* AI Design Patterns: [Guide](https://github.com/nabeelxy/llm-watch/blob/main/ai_design_patterns.md)
 
 
 ## Recent Important Publications
