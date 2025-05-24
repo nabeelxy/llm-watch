@@ -79,7 +79,10 @@ If you are interested in keeping up with LLM/Agent threat landscape, I encourage
 ### Graph Foundation Models
 | Date |Title | Venue | Materials | Tags | Code | Summary |
 | --- | --- | --- | --- | --- | --- | --- |
-|Mar 2025 | Graph Foundation Models: Concepts, Opportunities and Challenges | arXiv | [Paper]()
+|Mar 2025 | Graph Foundation Models: Concepts, Opportunities and Challenges | arXiv | [Paper](https://arxiv.org/pdf/2310.11829) | gnn, llm, gfm | | |
+
+#### Useful Links
+* Awesome Graph LLM references [repo](https://github.com/XiaoxinHe/Awesome-Graph-LLM)
 
 ### Blog posts
 * [2025-05-01] [Blog](https://lilianweng.github.io/posts/2025-05-01-thinking/) Why We Think by Lilian Wang. #test-time-compute #cot #thinking 
