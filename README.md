@@ -76,6 +76,11 @@ If you are interested in keeping up with LLM/Agent threat landscape, I encourage
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Mar 2025 | REALM | REALM: A Dataset of Real-World LLM Use Cases | arXiv | [Paper](https://arxiv.org/pdf/2503.18792v1) | LLM applications, use cases, news | | |
 
+### Graph Foundation Models
+| Date |Title | Venue | Materials | Tags | Code | Summary |
+| --- | --- | --- | --- | --- | --- | --- |
+|Mar 2025 | Graph Foundation Models: Concepts, Opportunities and Challenges | arXiv | [Paper]()
+
 ### Blog posts
 * [2025-05-01] [Blog](https://lilianweng.github.io/posts/2025-05-01-thinking/) Why We Think by Lilian Wang. #test-time-compute #cot #thinking 
 * [2025-04-15] [Report](https://knightcolumbia.org/content/ai-as-normal-technology) AI as a normal technology by Arvind Narayanan and Sayash Kapoor.
