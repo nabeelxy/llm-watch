@@ -3,7 +3,7 @@
 LLM powered applications are gaining traction at the moment. There are many useful architectural patterns that you can use to achieve the objectives. However, there aren't any comprehensive guide on which architecture(s) to choose, what their tradeoffs and suitable use cases. Further, existing referneces are unnecesrily complex at times. I believe a good architecture is simple and satisifies the functional specification. I focus on the most common patterns used in practical systems. This serves as a one-stop guide to select the right AI design pattern for your next LLM powered application.
 
 ## Prompting Pattern
-This is by far the most common pattern of using LLMs in applications. With LLMs becoming increasingly capable (e.g. GPT 4o or Gemini Flash 2) and supporting very large context windows (over a million tokens), prompting is the first strategy one would implement and evaluate.
+This is by far the most common pattern of using LLMs in applications. With LLMs becoming increasingly capable (e.g. GPT 4o or Gemini Flash 2) and supporting very large context windows (over a million tokens), prompting is the first strategy one would implement and evaluate. In technical terms, this pattern leverages the in-context learning capabilities of LLMs. (Note that LLMs may be fine-tuned to optimize for the task at hand.)
 
 Prompting strategies could be zero to a few shot (i.e. providing a few example prompt-output pairs) or CoT (Chain of Thought). LLM could be running locally (e.g. on Ollama) or accessed via a direct API (e.g. OpenAI or Gemini)/indirect API (e.g. LangGraph API).
 
