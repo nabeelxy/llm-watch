@@ -40,11 +40,16 @@ Grounding refers to providing LLMs with relevant information at inference time s
 
 ## RAG Pattern
 
+## Memory Pattern
+
 ## Guardrails Pattern
 
 ## Filtering Pattern
 
 ## LLM-as-a-Judge Pattern
+
+## Integrated Pattern
+This pattern integrates all the patterns mentioned above. Think of an LLM as the CPU of an operating system and it would make sense to have an integrated pattern to tie all together and also have additional components to work with the stochastic nature of LLMs and natural language input/output interface. 
 
 ## Agent Pattern
 
