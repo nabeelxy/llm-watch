@@ -23,3 +23,9 @@ Prompting strategies could be zero to a few shot (i.e. providing a few example p
 <b> Example Use Cases </b>
 * Applications improving productivity (e.g. summerizing meeting notes, drafting an email)
 * Language translation applications
+
+## Tool Calling Pattern
+This is also a very common design pattern where LLMs are augments with tool calling. For example, a tool could doing dynamic analysis on a piece of code in a sandbox environment and returning the behavior traces back to the LLM.
+
+<img src="media/tool_calling.png" alt="Tool Calling" width="600"/>
+
