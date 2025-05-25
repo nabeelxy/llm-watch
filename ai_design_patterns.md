@@ -35,9 +35,16 @@ This is also a very common design pattern where LLMs are augments with tool call
 
 <b> Example Use Cases </b>
 
-## Grounding/RAG Pattern
+## Grounding Pattern
+Grounding refers to providing LLMs with relevant information at inference time so that the answers produced are less likely to factually incorrect.
 
-## Guardrails and/or Filtering Pattern
+## RAG Pattern
+
+## Guardrails Pattern
+
+## Filtering Pattern
+
+## LLM-as-a-Judge Pattern
 
 ## Agent Pattern
 
@@ -45,4 +52,4 @@ This is also a very common design pattern where LLMs are augments with tool call
 
 ## Reflection Agent Pattern
 
-## LLM-as-a-Judge Pattern
+
