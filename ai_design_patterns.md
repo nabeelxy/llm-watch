@@ -5,10 +5,21 @@ LLM powered applications are gaining traction at the moment. There are many usef
 ## Prompting Pattern
 This is by far the most common pattern of using LLMs in applications. With LLMs becoming increasingly capable (e.g. GPT 4o or Gemini Flash 2) and supporting very large context windows (over a million tokens), prompting is the first strategy one would implement and evaluate.
 
+Prompting strategies could be zero to a few shot (i.e. providing a few example prompt-output pairs) or CoT (Chain of Thought). LLM could be running locally (e.g. on Ollama) or accessed via a direct API (e.g. OpenAI or Gemini)/indirect API (e.g. LangGraph API).
+
 <img src="media/prompting.png" alt="Prompting Pattern" width="600"/>
 
 <b> Pros </b>
+* Low complexity (less things to go wrong and easier deployment and maintenance)
+* Rapid iteration (iterating over differen prompting strategies is fast)
+* Works many use cases where the task does not require external tools or input on some domain specific knowledge
 
 <b> Cons </b>
+* No memory (need to update the prompt with prior conversations everytime)
+* Hallucination risk (no grounding available; also thinking is limited)
+* Do not have access to tools to perform specialized operations (e.g. fetching the content of a web page to analyze)
+* Knowledge cut-off (LLMs are trained data present before certain date in the past, so they don't have a clue on data after that date)
 
 <b> Example Use Cases </b>
+* Applications improving productivity (e.g. summerizing meeting notes, drafting an email)
+* Language translation applications
