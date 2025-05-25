@@ -29,3 +29,20 @@ This is also a very common design pattern where LLMs are augments with tool call
 
 <img src="media/tool_calling.png" alt="Tool Calling" width="600"/>
 
+<b> Pros </b>
+
+<b> Cons </b>
+
+<b> Example Use Cases </b>
+
+## Grounding/RAG Pattern
+
+## Guardrails and/or Filtering Pattern
+
+## Agent Pattern
+
+## ReAct Agent Pattern
+
+## Reflection Agent Pattern
+
+## LLM-as-a-Judge Pattern
