@@ -5,4 +5,5 @@ LLM powered applications are gaining traction at the moment. There are many usef
 ## Prompting Pattern
 This is by far the most common pattern of using LLMs in applications.
 
-![Prompting Pattern](media/prompting.png)
+<img src="media/prompting.png" alt="Prompting Pattern" width="600"/>
+
