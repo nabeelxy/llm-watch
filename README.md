@@ -25,6 +25,7 @@ If you are interested in keeping up with LLM/Agent threat landscape, I encourage
 | Mar 2025 | Chain-of-Tools: Utilizing Massive Unseen Tools in the CoT Reasoning of Frozen Language Models | arXiv | [Paper](https://www.arxiv.org/pdf/2503.16779) | CoT, tools | | |
 | Mar 2025 | Gemini Embedding: Generalizable Embeddings from Gemini | arXiv, Google | [Paper](https://arxiv.org/pdf/2503.07891v1) | MMTEB benchmark, Gemini, embedding | | |
 | Mar 2025 | Search-R1: Training LLMs to Reason and Leverage Search Engines with Reinforcement Learning | arXiv | [Paper](https://arxiv.org/pdf/2503.09516) | RL, RAG, Reasoning, DeepSeek, tool use | | |
+| Feb 2025 | TabICL: A Tabular Foundation Model for In-Context Learning on Large Data | ICML 2025 | [Paper](https://arxiv.org/pdf/2502.05564) [GitHub](https://github.com/soda-inria/tabicl)| Tabular foundation model, talent benchmark | | |
 | Feb 2025 | Large Language Diffusion Models | arXiv | [Paper](https://arxiv.org/pdf/2502.09992) | diffusion models, auto-regressive models | | |
 | Feb 2025 | LLMs Can Easily Learn to Reason from Demonstrations; Structure, not content, is what matters! | arXiv | [Paper](https://arxiv.org/pdf/2502.07374) | long CoT, data-efficient SFT, LoRA, Qwen | | |
 | Feb 2025 | A-MEM: Agentic Memory for LLM Agents | arXiv | [Paper](https://arxiv.org/abs/2502.12110v1) | agentic memory system, dynamic indexing, Zettelkasten | | |
