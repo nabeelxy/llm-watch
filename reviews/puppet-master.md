@@ -4,7 +4,7 @@
 * Existing multi-agent systems rely on static organizational structures or predefined agent topologies. Hence, they struggle to adapt to complex tasks and increased number of agents.
  * Further, such systems have an increased coordination overhead
 
-## What is the key idea?
+## How is the problem resolved?
 Think of how a puppeteer orchestrates puppets. 
 
 <img src="../media/puppet-master.png" width=600/>
