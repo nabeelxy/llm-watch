@@ -13,3 +13,5 @@ Side-by-side comparison of ReAct vs. PreAct. The difference is demonstrated base
 * PreAct creates a two-level evaluation framework covering both turn-level and end-to-end.
 
 ## How does it compare to existing methods?
+<img src="../media/preact-perf.png" width=600 />
+ReAct vs. PreAct results for two in-domain datasets and one out-of-domaind dataset.
