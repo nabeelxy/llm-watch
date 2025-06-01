@@ -1,5 +1,6 @@
 # Pre-Act: Multi-Step Planning and Reasoning Improves Acting in LLM Agents
 <img src="../media/react-vs-preact.png" width=600 />
+Side-by-side comparison of ReAct vs. PreAct. The difference is demonstrated based on a single tool call.
 
 ## What is the problem addressed?
 * ReAct focues on single-step reasoning and generating actions for immediate execution. Because of this, advanced prompting techniques like Chain-of-Thought, Self-Consistency, Three-of-Thought and Graph-of-Thought often struggle to work across multiple steps.
