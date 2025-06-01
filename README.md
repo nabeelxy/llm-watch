@@ -49,6 +49,7 @@ If you are interested in keeping up with LLM/Agent threat landscape, I encourage
 | Date |Title | Venue | Materials | Tags | Code | Summary |
 | --- | --- | --- | --- | --- | --- | --- |
 | May 2025 | Multi-Agent Collaboration via Evolving Orchestration | arXiv | [Paper](https://arxiv.org/pdf/2505.19591) | puppet master, RL, orchestrator, multi-agent system | | [Note](https://github.com/nabeelxy/llm-watch/blob/main/reviews/puppet-master.md)|
+| May 2025 | Pre-Act: Multi-Step Planning and Reasoning Improves Acting in LLM Agents | arXiv | [Paper](https://arxiv.org/pdf/2505.09970) | Planning ahead, ReAct, planning, multi-agent | | [Note](https://github.com/nabeelxy/llm-watch/blob/main/reviews/preact.md)|
 | Apr 2025 | A Survey of AI Agent Protocols | arXiv | [Paper](https://arxiv.org/pdf/2504.16736) | protcols, survey | | |
 | Feb 2025 | Understanding the planning of LLM agents: A survey | arXiv | [Paper](https://arxiv.org/pdf/2402.02716) | planning, survey | | |
 | Jan 2025 | QUERYING DATABASES WITH FUNCTION CALLING | arXiv | [Paper](https://arxiv.org/pdf/2502.00032) | Agent, text-to-sql, function calling, json | | |
