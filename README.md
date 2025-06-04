@@ -65,7 +65,8 @@ If you are interested in keeping up with LLM/Agent threat landscape, I encourage
 ### Benchmarks
 | Date | Title | Venue | Materials | Tags | Code | Summary |
 | --- |  --- | --- | --- | --- | --- | --- |
-| Apr 2025 | HealthBench: Evaluating Large Language Models Towards Improved Human Health | OpenAI | [Paper](https://cdn.openai.com/pdf/bd7a39d5-9e9f-47b3-903c-8b847ca650c7/healthbench_paper.pdf) [Blog](https://openai.com/index/healthbench/) | 5K conversaions, rubrics | | |
+| May 2025 | General Scales Unlock AI Evaluation with Explanatory and Predictive Power | arXiv, Microsoft | [Paper](https://arxiv.org/pdf/2503.06378) | evals, benchmark | | |
+| Apr 2025 | HealthBench: Evaluating Large Language Models Towards Improved Human Health | OpenAI | [Paper](https://cdn.openai.com/pdf/bd7a39d5-9e9f-47b3-903c-8b847ca650c7/healthbench_paper.pdf) [Blog](https://openai.com/index/healthbench/) | 5K conversaions, rubrics | [Github](https://kinds-of-intelligence-cfi.github.io/ADELE) | |
 | Apr 2025 | The LeaderBoard Illusion | arXiv | [Paper](https://arxiv.org/pdf/2504.20879) | Chatbot Arean, Eval | | |
 | Jan 2025 | HALOGEN : Fantastic LLM Hallucinations and Where to Find Them | arXiv | [Paper](https://arxiv.org/pdf/2501.08292) | benchmark, hallucination |  | [Note](reviews/halogen.md) |
 | 2025 |  Humanity's Last Exam |  | [Paper](https://static.scale.com/uploads/654197dc94d34f66c0f5184e/Publication%20Ready%20Humanity%27s%20Last%20Exam.pdf) | benchmark, LLM |  | [Note](reviews/hle.md) |
@@ -91,6 +92,7 @@ If you are interested in keeping up with LLM/Agent threat landscape, I encourage
 * Awesome Graph LLM references [repo](https://github.com/XiaoxinHe/Awesome-Graph-LLM)
 
 ### Blog posts
+* [2025-05-12] [Blog](https://www.microsoft.com/en-us/research/blog/predicting-and-explaining-ai-model-performance-a-new-approach-to-evaluation) Predicting and explaining AI model performance: A new approach to evaluation by Microsoft. #evals #benchmark
 * [2025-05-01] [Blog](https://lilianweng.github.io/posts/2025-05-01-thinking/) Why We Think by Lilian Wang. #test-time-compute #cot #thinking 
 * [2025-04-15] [Report](https://knightcolumbia.org/content/ai-as-normal-technology) AI as a normal technology by Arvind Narayanan and Sayash Kapoor.
 * [2025-04-13] [Blog](https://www.newsletter.swirlai.com/p/mcp-vs-a2a-friends-or-foes) MCP vs. A2A: Friends or Foes?, by Aurimas Griciunas (SwirlAI Newsletter)
