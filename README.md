@@ -74,6 +74,7 @@ If you are interested in keeping up with LLM/Agent threat landscape, I encourage
 | Apr 2025 | The LeaderBoard Illusion | arXiv | [Paper](https://arxiv.org/pdf/2504.20879) | Chatbot Arean, Eval | | |
 | Jan 2025 | HALOGEN : Fantastic LLM Hallucinations and Where to Find Them | arXiv | [Paper](https://arxiv.org/pdf/2501.08292) | benchmark, hallucination |  | [Note](reviews/halogen.md) |
 | 2025 |  Humanity's Last Exam |  | [Paper](https://static.scale.com/uploads/654197dc94d34f66c0f5184e/Publication%20Ready%20Humanity%27s%20Last%20Exam.pdf) | benchmark, LLM |  | [Note](reviews/hle.md) |
+| Mar 2024 | InfiAgent-DABench: Evaluating Agents on Data Analysis Tasks | ICML 2024 | [Paper](https://arxiv.org/pdf/2401.05507) | LLM agents, analysis tasks, format prompting, close-ended tasks | [GitHub](https://github.com/InfiAgent/InfiAgent) | |
 
 ### Small Language Models
 | Date | Title | Venue | Materials | Tags | Code | Summary |
