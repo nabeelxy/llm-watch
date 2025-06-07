@@ -17,6 +17,7 @@ If you are interested in keeping up with LLM/Agent threat landscape, I encourage
 | Date | Title | Venue | Materials | Tags | Code | Summary |
 | --- | --- | --- | --- | --- | --- | --- |
 | Aug 2025 |  We Have a Package for You! A Comprehensive Analysis of Package Hallucinations by Code Generating LLMs | Usenix Security 2025 | [Paper](https://arxiv.org/pdf/2406.10279) | llm, hallucination, packages, code generation | | |
+| May 2025 | From Tokens to Thoughts: How LLMs and Humans Trade Compression for Meaning | arXiv, Stanford, Meta | [Paper](https://arxiv.org/pdf/2505.17117) | thoughts, semantic compression compression vs. semnatic fidelity | | |
 | May 2025 | How much do language models memorize? | Meta | [Paper](https://arxiv.org/pdf/2505.24832) | memorization, generalization, gpt | | |
 | May 2025 | Learning to Reason without External Rewards | arXiv | [Paper](https://www.arxiv.org/pdf/2505.19590) | RLVR, RLIR, GRPO | | |
 | May 2025 | KumoRFM: A Foundation Model for In-Context Learning on Relational Data | Kumo | [Paper](https://kumo.ai/research/kumo_relational_foundation_model.pdf) | relational, foundation model | | |
