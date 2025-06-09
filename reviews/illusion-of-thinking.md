@@ -14,4 +14,4 @@
 * For medium-complexity tasks, LRMs show improvement over non-thinking models.
 * For high-complexity tasks, all models collapse to near-zero accuracy.
 * LRMs reduce their reasoning efforts as problem complexity increases beyond a threshold. (This suggests an internal scaling failure not caused by token limits but by intrinsic model behavior)
-* 
+* LRMs frequently "overthink" on simple problems where they find the correct answers early but continue to explore incorrect paths.
