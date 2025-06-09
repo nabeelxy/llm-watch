@@ -17,6 +17,7 @@ If you are interested in keeping up with LLM/Agent threat landscape, I encourage
 | Date | Title | Venue | Materials | Tags | Code | Summary |
 | --- | --- | --- | --- | --- | --- | --- |
 | Aug 2025 |  We Have a Package for You! A Comprehensive Analysis of Package Hallucinations by Code Generating LLMs | Usenix Security 2025 | [Paper](https://arxiv.org/pdf/2406.10279) | llm, hallucination, packages, code generation | | |
+| June 2025 | KNOWLEDGE or REASONING ? A Close Look at How LLMs Think Across Domains | arXiv | [Paper](https://arxiv.org/pdf/2506.02126) | Knoweledge Index, Infromation Gain, SFT, RL, Distillation | | |
 | June 2025 | The Illusion of Thinking: Understanding the Strengths and Limitations of Reasoning Models via the Lens of Problem Complexity | Apple | [Paper](https://ml-site.cdn-apple.com/papers/the-illusion-of-thinking.pdf) | LRM, accuracy collapse, problem complexity, reasoing | | |
 | May 2025 | Can Large Reasoning Models Self-Train? | arXiv, CMU | [Paper](https://www.arxiv.org/pdf/2505.21444) | RL, self-training | | |
 | May 2025 | ALPHAONE: Reasoning Models Thinking Slow and Fast at Test Time | arXiv, UIUC, Berkeley | [Paper](https://www.arxiv.org/pdf/2505.24863) | large reasoning models, slow-to-fast reasoning | | |
