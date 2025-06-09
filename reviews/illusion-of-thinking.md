@@ -1,6 +1,7 @@
 # The Illusion of Thinking: Understanding the Strengths and Limitations of Reasoning Models via the Lens of Problem Complexity
 
 <img src="../media/illusion-of-thinking.png" width=600 />
+Top figure shows that how authors consider both intermediate traces and final answers for verification. Bottom figure shows that LRMs overthink on low-complexity tasks.
 
 ## What is the problem addresses?
 * Current evaluations primarily focuses on coding and math benchmarks where the final answer accuracy is measured. It suffers from several drawbacks.
