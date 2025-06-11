@@ -101,6 +101,7 @@ If you are interested in keeping up with LLM/Agent threat landscape, I encourage
 * Awesome Graph LLM references [repo](https://github.com/XiaoxinHe/Awesome-Graph-LLM)
 
 ### Blog posts
+* [2025-06-10] [PR](https://mistral.ai/news/magistral) Announcing Magistral - the first reasoning model by Mistral AI. (Magistral Small is available in [Huggingface](https://huggingface.co/mistralai/Magistral-Small-2506)) #reasoning, #open-weight #moe 
 * [2025-05-12] [Blog](https://www.microsoft.com/en-us/research/blog/predicting-and-explaining-ai-model-performance-a-new-approach-to-evaluation) Predicting and explaining AI model performance: A new approach to evaluation by Microsoft. #evals #benchmark
 * [2025-05-01] [Blog](https://lilianweng.github.io/posts/2025-05-01-thinking/) Why We Think by Lilian Wang. #test-time-compute #cot #thinking 
 * [2025-04-15] [Report](https://knightcolumbia.org/content/ai-as-normal-technology) AI as a normal technology by Arvind Narayanan and Sayash Kapoor.
