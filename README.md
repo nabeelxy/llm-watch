@@ -82,6 +82,7 @@ If you are interested in keeping up with LLM/Agent threat landscape, I encourage
 ### Small Language Models
 | Date | Title | Venue | Materials | Tags | Code | Summary |
 | --- | --- | --- | --- | --- | --- | --- |
+| May 2025 | Llama-Nemotron: Efficient Reasoning Models | arXiv, Nvidia | [Paper](https://arxiv.org/pdf/2505.00949) | efficient reasoning, llama | | |
 | Apr 2025 | Phi-4-Mini-Reasoning: Exploring the Limits of Small Reasoning Language Models in Math | arXiv | [Paper](https://arxiv.org/pdf/2504.21233) | reason, slm, distill, CoT | | |
 | Feb 2025 | Can 1B LLM Surpass 405B LLM? Rethinking Compute-Optimal Test-Time Scaling | arXiv | [Paper]() | test-time scaling (TTS), math-500, aime24, process reward models (PRMs) | | |
 | Dec 2024 | Phi-4 Technical Report | arXiv | [Report](https://arxiv.org/pdf/2412.08905) | sml, distillation, synthetic data | | [Note](reviews/phi-4.md) |
