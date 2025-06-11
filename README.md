@@ -106,6 +106,7 @@ If you are interested in keeping up with LLM/Agent threat landscape, I encourage
 * [2025-04-13] [Blog](https://www.newsletter.swirlai.com/p/mcp-vs-a2a-friends-or-foes) MCP vs. A2A: Friends or Foes?, by Aurimas Griciunas (SwirlAI Newsletter)
 * [2025-04-11] [Report](https://cdn.openai.com/business-guides-and-resources/ai-in-the-enterprise.pdf) AI in the enterprise by Open AI.
 * [2025-04-03] [Blog](https://eugeneyan.com/writing/recsys-llm/) Improving the recommendation systems and search in the age of LLMs, by Eugene Yan.
+* [2025-03-20] [Blog](https://www.anthropic.com/engineering/claude-think-tool) The "think" tool: Enabling Claude to stop and think in complex tool use situations, by Anthropic. #thinking #toolinvovation #agents
 * [2025-03-12] [Blog](https://blog.google/technology/developers/gemma-3/) Google's Gemma 3 release note.
 * [2025-03-11] [Documentation](https://platform.openai.com/docs/guides/agents-sdk) OpenAI's Agent SDK guide.
 * [2025-03-10] [Article](https://www.latent.space/p/why-mcp-won) Model Context Protocol, Summary of the AI Engineer summit talk by Anthropic.
