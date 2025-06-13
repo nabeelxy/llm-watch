@@ -102,6 +102,7 @@ If you are interested in keeping up with LLM/Agent threat landscape, I encourage
 * Awesome Graph LLM references [repo](https://github.com/XiaoxinHe/Awesome-Graph-LLM)
 
 ### Blog posts
+* [2025-06-12] [Blog](https://blog.langchain.dev/the-hidden-metric-that-determines-ai-product-success/) The Hidden Metric That Determines AI Product Success by LangChain. #product #engineering #confidence
 * [2025-06-10] [Blog](https://blog.samaltman.com/the-gentle-singularity) The Gentle Singularity by Sam Altman. #superintelligence #agents #robots #productivity #datacenters #alignment #affordability
 * [2025-06-10] [Blog](https://www.perplexity.ai/hub/blog/accelerating-sonar-through-speculation) Accelerating Sonar Through Speculation, by Perplexity AI. #speculative-decoding 
 * [2025-06-10] [PR](https://mistral.ai/news/magistral) Announcing Magistral - the first reasoning model by Mistral AI. (Magistral Small is available in [Huggingface](https://huggingface.co/mistralai/Magistral-Small-2506)) #reasoning, #open-weight #moe 
@@ -120,3 +121,4 @@ If you are interested in keeping up with LLM/Agent threat landscape, I encourage
 * [2025-02-06] [Article](https://cloudsecurityalliance.org/blog/2025/02/06/agentic-ai-threat-modeling-framework-maestro) Agentic AI threat modeling framework - MAESTRO.
 * [2025-02-01] [White Paper](https://www.kaggle.com/whitepaper-agent-companion) Agents Companion by Google.
 * [2024-11-25] [Article](https://www.anthropic.com/news/model-context-protocol) MCP (Model Context Protocol) by Anthropic.
+
