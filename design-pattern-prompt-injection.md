@@ -1,6 +1,6 @@
 # Design Patterns for Securing LLM Agents
 
-The recent paper by authors from various organizations including IBM, Invariant Labs, ETH Zurich, Google and Microsoft proposes 6 design patterns to guard against prompt injection. This I believe a great extension to [the prior work](https://arxiv.org/pdf/2503.18813) by Google researchers. 
+The recent [paper](https://arxiv.org/pdf/2506.08837) by authors from various organizations including IBM, Invariant Labs, ETH Zurich, Google and Microsoft proposes 6 design patterns to guard against prompt injection. This I believe a great extension to [the prior work](https://arxiv.org/pdf/2503.18813) by Google researchers. 
 
 ## The Action-Selector Pattern
 <img src="media/action-selector-pattern.png" width=600 />
