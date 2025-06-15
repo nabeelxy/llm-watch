@@ -19,5 +19,7 @@ Untrusted documents are processed independently to ensure that a malicious docum
 A privileged LLM has access to tools but never processes untrusted data. This LLM  can call a quarantined LLM to process untrusted data but without any tool access. Results from processing  untrusted data are stored in memory that the privileged LLM can manipulated by reference only.
 
 ## The Code-Then-Execute Pattern
+<img src="media/code-then-pattern.png" width=600 />
+The LLM writes a piece of code that can call tools and make calls to other LLMs. The code is then run on untrusted data.
 
 ## The Context-Minimization pattern
