@@ -7,7 +7,7 @@ The recent paper by authors from various organizations including IBM, Invariant 
 The red color represents untrusted data. The LLM acts as a translator between a natural language prompt and a series of predefined actions to be executed over untrusted data.
 
 ## The Plan-Then-Execute Pattern
-<img src="media/plan-then-execute.png" width=600 />
+<img src="media/plan-then-execute-pattern.png" width=600 />
 Before processing any untrusted data, the LLM defines a plan consisting of a series of allowed tool calls. A prompt injection cannot force the LLM into executing a tool that is not part of the defined plan.
 
 ## The LLM Map-Reduce Pattern
