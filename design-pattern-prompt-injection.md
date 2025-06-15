@@ -23,5 +23,5 @@ A privileged LLM has access to tools but never processes untrusted data. This LL
 The LLM writes a piece of code that can call tools and make calls to other LLMs. The code is then run on untrusted data.
 
 ## The Context-Minimization pattern
-<img src="media/context-minimization.png" width=600 />
+<img src="media/context-minimization-pattern.png" width=600 />
 The user's prompt informs the actions of the LLM agent (e.g. a call to a specific tool), but is removed from the LLM's context thereafter to prevent it from modifying the LLM's response.
