@@ -15,6 +15,8 @@ Before processing any untrusted data, the LLM defines a plan consisting of a ser
 Untrusted documents are processed independently to ensure that a malicious document cannot impact the processing of another document.
 
 ## The Dual LLM Pattern
+<img src="media/dual-llm-pattern.png" width=600 />
+A privileged LLM has access to tools but never processes untrusted data. This LLM  can call a quarantined LLM to process untrusted data but without any tool access. Results from processing  untrusted data are stored in memory that the privileged LLM can manipulated by reference only.
 
 ## The Code-Then-Execute Pattern
 
