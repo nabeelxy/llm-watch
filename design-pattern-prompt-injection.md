@@ -11,6 +11,8 @@ The red color represents untrusted data. The LLM acts as a translator between a 
 Before processing any untrusted data, the LLM defines a plan consisting of a series of allowed tool calls. A prompt injection cannot force the LLM into executing a tool that is not part of the defined plan.
 
 ## The LLM Map-Reduce Pattern
+<img src="media/map-reduce-pattern.png" width=600 />
+Untrusted documents are processed independently to ensure that a malicious document cannot impact the processing of another document.
 
 ## The Dual LLM Pattern
 
