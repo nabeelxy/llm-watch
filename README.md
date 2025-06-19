@@ -103,6 +103,7 @@ If you are interested in keeping up with LLM/Agent threat landscape, I encourage
 * Awesome Graph LLM references [repo](https://github.com/XiaoxinHe/Awesome-Graph-LLM)
 
 ### Blog posts
+* [2025-06-15] [Report](https://cdn.openai.com/business-guides-and-resources/a-practical-guide-to-building-agents.pdf) A practical guide to building agents by OpenAI. #agents #engineering
 * [2025-06-12] [Blog](https://blog.langchain.dev/the-hidden-metric-that-determines-ai-product-success/) The Hidden Metric That Determines AI Product Success by LangChain. #product #engineering #confidence
 * [2025-06-10] [Blog](https://blog.samaltman.com/the-gentle-singularity) The Gentle Singularity by Sam Altman. #superintelligence #agents #robots #productivity #datacenters #alignment #affordability
 * [2025-06-10] [Blog](https://www.perplexity.ai/hub/blog/accelerating-sonar-through-speculation) Accelerating Sonar Through Speculation, by Perplexity AI. #speculative-decoding 
