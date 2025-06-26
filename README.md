@@ -125,3 +125,6 @@ If you are interested in keeping up with LLM/Agent threat landscape, I encourage
 * [2025-02-01] [White Paper](https://www.kaggle.com/whitepaper-agent-companion) Agents Companion by Google.
 * [2024-11-25] [Article](https://www.anthropic.com/news/model-context-protocol) MCP (Model Context Protocol) by Anthropic.
 
+
+### Notable Repos
+* [MetaGPT](https://github.com/FoundationAgents/MetaGPT) - Multi-Agent Framework for software development
