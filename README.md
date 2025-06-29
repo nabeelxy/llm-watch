@@ -17,7 +17,7 @@ If you are interested in keeping up with LLM/Agent threat landscape, I encourage
 ### Large Language Models
 | Date | Title | Venue | Materials | Tags | Code | Summary |
 | --- | --- | --- | --- | --- | --- | --- |
-| Aug 2025 |  We Have a Package for You! A Comprehensive Analysis of Package Hallucinations by Code Generating LLMs | Usenix Security 2025 | [Paper](https://arxiv.org/pdf/2406.10279) | llm, hallucination, packages, code generation | | |
+| Aug 2025 |  We Have a Package for You! A Comprehensive Analysis of Package Hallucinations by Code Generating LLMs | Usenix Security 2025 | [Paper](https://arxiv.org/pdf/2406.10279) [NotebookLM](https://notebooklm.google.com/notebook/6495317c-4a13-4909-815f-bcc4bd96f167?authuser=1) | llm, hallucination, packages, code generation | | |
 | Jun 2025 | Gemini 2.5: Pushing the Frontier with Advanced Reasoning, Multimodality, Long Context, and Next Generation Agentic Capabilities | Google DeepMind | [TR](https://storage.googleapis.com/deepmind-media/gemini/gemini_v2_5_report.pdf) | reasoining, long context, agents | | |
 | Jun 2025 | Reinforcement Pre-Training | arXiv, Microsoft | [Paper](https://arxiv.org/pdf/2506.08007)  | scaling paradigms, next token prediction, reinforcement learning | | |
 | Jun 2025 | CoT is Not True Reasoning, It Is Just a Tight Constraint to Imitate: A Theory Perspective | arXiv | [Paper](https://www.arxiv.org/pdf/2506.02878) | CoT, reasoning, immitation learning, structructural constraints | | |
