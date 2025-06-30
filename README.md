@@ -104,6 +104,8 @@ If you are interested in keeping up with LLM/Agent threat landscape, I encourage
 * Awesome Graph LLM references [repo](https://github.com/XiaoxinHe/Awesome-Graph-LLM)
 
 ### Blog posts
+* [2025-06-26] [Blog](https://www.dbreunig.com/2025/06/26/how-to-fix-your-context.html) How to fix your context by Drew Breuning #context-engineering #tips
+* [2025-06-22] [Blog](https://www.dbreunig.com/2025/06/22/how-contexts-fail-and-how-to-fix-them.html) How long contexts fail by Drew Breuning #context-engineering #fail
 * [2025-06-15] [Report](https://cdn.openai.com/business-guides-and-resources/a-practical-guide-to-building-agents.pdf) A practical guide to building agents by OpenAI. #agents #engineering
 * [2025-06-12] [Blog](https://blog.langchain.dev/the-hidden-metric-that-determines-ai-product-success/) The Hidden Metric That Determines AI Product Success by LangChain. #product #engineering #confidence
 * [2025-06-10] [Blog](https://blog.samaltman.com/the-gentle-singularity) The Gentle Singularity by Sam Altman. #superintelligence #agents #robots #productivity #datacenters #alignment #affordability
