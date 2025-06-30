@@ -51,6 +51,7 @@ If you are interested in keeping up with LLM/Agent threat landscape, I encourage
 | Jan 2025 | Agent-R: Training Language Model Agents to Reflect via Iterative Self-Training | arXiv | [Paper](https://arxiv.org/pdf/2501.11425) | agent, self-training | | [Note](reviews/agent-r.md) |
 | Jan 2025 | DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning | arXiv | [Report](https://arxiv.org/pdf/2501.12948) | llm, rl, cot, gpro, moe, mla | | [Note](reviews/deepseek-r1.md)|
 | Dec 2024 | DeepSeek-V3 Technical Report | arXiv | [Report](https://arxiv.org/pdf/2412.19437) | llm, rl, mlha, moe, mtp | | [Note](reviews/deepseek-v3.md)| 
+| Sep 2024 | Michelangelo: Long Context Evaluations Beyond Haystacks via Latent Structure Queries | Google | [Paper](https://arxiv.org/pdf/2409.12640) | long context, evaluation | | |
 | Sep 2024 | RLAIF vs. RLHF: Scaling Reinforcement Learning from Human Feedback with AI Feedback | ICML 2024 | [Paper](https://arxiv.org/pdf/2309.00267v3) | RFAIF, RLHF | ||
 | Sep 2024 | Assessing Adversarial Robustness of Large Language Models: An Empirical Study | arXiv | [Paper](https://arxiv.org/pdf/2405.02764) | llm, aml, robustness | | |
 | Jun 2022 | Switch Transformers: Scaling to Trillion Parameter Models with Simple and Efficient Sparsity | arXiv | [Paper](https://arxiv.org/pdf/2101.03961) | transformers, moe | | |
