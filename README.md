@@ -71,7 +71,7 @@ If you are interested in keeping up with LLM/Agent threat landscape, I encourage
 ### RAG
 | Date | Title | Venue | Materials | Tags | Code | Summary |
 | --- | --- | --- | --- | --- | --- | --- |
-| May 2025 | REARANK: Reasoning Re-ranking Agent via Reinforcement Learning | arXiv | [Paper](https://arxiv.org/pdf/2505.20046v1) | reranking, qwen2.5-7b, BRIGHT benchmarks | | |
+| May 2025 | REARANK: Reasoning Re-ranking Agent via Reinforcement Learning | arXiv | [Paper](https://arxiv.org/pdf/2505.20046v1) [NotebookLM](https://notebooklm.google.com/notebook/28753282-4d0e-4be4-9a24-3ef3322afe51)| reranking, qwen2.5-7b, BRIGHT benchmarks | | |
 | Feb 2025 | KnowPath: Knowledge-enhanced Reasoning via LLM-generated Inference Paths over Knowledge Graphs | arXiv | [Paper](https://arxiv.org/abs/2502.12029) | RAG, knowledge graph, hullicination, reasoning paths | | |
 
 ### Benchmarks
