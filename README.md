@@ -108,7 +108,8 @@ If you are interested in keeping up with LLM/Agent threat landscape, I encourage
 ### Influential Papers in NLP
 | Date | Title | Venue | Materials | Tags | Code | Summary |
 | --- | --- | --- | --- | --- | --- | --- |
-|2017 | Attention is all you need | Google | [Paper](https://arxiv.org/pdf/1706.03762) | transformers, nlp | | |
+| 2018 | BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding | Google | [Paper](https://arxiv.org/pdf/1810.04805) | encoder, embeddings | | |
+|2017 | Attention is all you need | Google | [Paper](https://arxiv.org/pdf/1706.03762) [NotebookLM](https://notebooklm.google.com/notebook/2fff097e-444c-4d0a-892f-fa44ce7f3c8a)| transformers, nlp | | |
 
 ### Blog posts
 * [2025-06-26] [Blog](https://www.dbreunig.com/2025/06/26/how-to-fix-your-context.html) How to fix your context by Drew Breuning #context-engineering #tips
