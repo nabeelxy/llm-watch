@@ -105,6 +105,11 @@ If you are interested in keeping up with LLM/Agent threat landscape, I encourage
 #### Useful Links
 * Awesome Graph LLM references [repo](https://github.com/XiaoxinHe/Awesome-Graph-LLM)
 
+### Influential Papers in NLP
+| Date | Title | Venue | Materials | Tags | Code | Summary |
+| --- | --- | --- | --- | --- | --- | --- |
+|2017 | Attention is all you need | Google | [Paper](https://arxiv.org/pdf/1706.03762) | transformers, nlp | | |
+
 ### Blog posts
 * [2025-06-26] [Blog](https://www.dbreunig.com/2025/06/26/how-to-fix-your-context.html) How to fix your context by Drew Breuning #context-engineering #tips
 * [2025-06-22] [Blog](https://www.dbreunig.com/2025/06/22/how-contexts-fail-and-how-to-fix-them.html) How long contexts fail by Drew Breuning #context-engineering #fail
