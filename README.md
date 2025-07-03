@@ -108,7 +108,7 @@ If you are interested in keeping up with LLM/Agent threat landscape, I encourage
 ### Influential Papers in NLP
 | Date | Title | Venue | Materials | Tags | Code | Summary |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2018 | BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding | Google | [Paper](https://arxiv.org/pdf/1810.04805) [NotebookLM](https://notebooklm.google.com/notebook/6d726fb6-5c4a-4138-95e3-6f9223ab92bb)| encoder, embeddings | | |
+| 2018 | BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding | Google | [Paper](https://arxiv.org/pdf/1810.04805) [NotebookLM](https://notebooklm.google.com/notebook/6d726fb6-5c4a-4138-95e3-6f9223ab92bb) [Podcast](https://notebooklm.google.com/notebook/6d726fb6-5c4a-4138-95e3-6f9223ab92bb/audio)| encoder, embeddings | | |
 |2017 | Attention is all you need | Google | [Paper](https://arxiv.org/pdf/1706.03762) [NotebookLM](https://notebooklm.google.com/notebook/2fff097e-444c-4d0a-892f-fa44ce7f3c8a)| transformers, nlp | | |
 
 ### Blog posts
