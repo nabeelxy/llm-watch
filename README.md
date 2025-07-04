@@ -110,7 +110,7 @@ If you are interested in keeping up with LLM/Agent threat landscape, I encourage
 | --- | --- | --- | --- | --- | --- | --- |
 | 2018 | BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding | Google | [Paper](https://arxiv.org/pdf/1810.04805) [NotebookLM](https://notebooklm.google.com/notebook/6d726fb6-5c4a-4138-95e3-6f9223ab92bb) [Podcast](https://notebooklm.google.com/notebook/6d726fb6-5c4a-4138-95e3-6f9223ab92bb/audio)| encoder, embeddings | | |
 |2017 | Attention is all you need | Google | [Paper](https://arxiv.org/pdf/1706.03762) [NotebookLM](https://notebooklm.google.com/notebook/2fff097e-444c-4d0a-892f-fa44ce7f3c8a)| transformers, nlp | | |
-| 2013 | Distributed Representations of Words and Phrases and their Compositionality | Google | [Paper](https://arxiv.org/pdf/1310.4546) | word2vec | | |
+| 2013 | Distributed Representations of Words and Phrases and their Compositionality | Google | [Paper](https://arxiv.org/pdf/1310.4546) [NotebookLM](https://notebooklm.google.com/notebook/677909a2-0260-40cf-ac8b-5ef96055fdee?authuser=1) | word2vec | | |
 
 ### Blog posts
 * [2025-06-26] [Blog](https://www.dbreunig.com/2025/06/26/how-to-fix-your-context.html) How to fix your context by Drew Breuning #context-engineering #tips
