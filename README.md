@@ -109,6 +109,7 @@ If you are interested in keeping up with LLM/Agent threat landscape, I encourage
 | Date | Title | Venue | Materials | Tags | Code | Summary |
 | --- | --- | --- | --- | --- | --- | --- |
 | 2022 | Training language models to follow instructions with human feedback | OpenAI | [Paper](https://arxiv.org/pdf/2203.02155) [Notebook](https://notebooklm.google.com/notebook/6ea736d5-b5ad-4ea2-b170-f15c82b52115?authuser=3)| InstructGPT, RLHF | | |
+| 2021 | LORA: LOW-RANK ADAPTATION OF LARGE LANGUAGE MODELS | Microsoft | [Paper](https://arxiv.org/pdf/2106.09685) [NotebookLM](https://notebooklm.google.com/notebook/ee05a51e-7bb9-4e2a-bee6-f90353a3d7a9)| LoRA, fine-tuning | | |
 | 2020 | Language Models are Few-Shot Learners | OpenAI | [Paper](https://arxiv.org/pdf/2005.14165) [NotebookLM](https://notebooklm.google.com/notebook/d0ef99d0-400e-4b46-80f5-4c363f6b4cbe)| GPT-3 | | |
 | 2018 | BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding | Google | [Paper](https://arxiv.org/pdf/1810.04805) [NotebookLM](https://notebooklm.google.com/notebook/6d726fb6-5c4a-4138-95e3-6f9223ab92bb) [Podcast](https://notebooklm.google.com/notebook/6d726fb6-5c4a-4138-95e3-6f9223ab92bb/audio)| encoder, embeddings | | |
 |2017 | Attention is all you need | Google | [Paper](https://arxiv.org/pdf/1706.03762) [NotebookLM](https://notebooklm.google.com/notebook/2fff097e-444c-4d0a-892f-fa44ce7f3c8a)| transformers, nlp | | |
