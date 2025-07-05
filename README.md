@@ -116,7 +116,7 @@ If you are interested in keeping up with LLM/Agent threat landscape, I encourage
 | 2014 | Sequence to Sequence Learning with Neural Networks | Google | [Paper](https://arxiv.org/pdf/1409.3215) [NotebookLM](https://notebooklm.google.com/notebook/98ee4c7f-fbc6-4920-83dc-e67d586fd1ac) | lstm | | |
 | 2014 | GloVe: Global Vectors for Word Representation | Stanford | [Paper](https://nlp.stanford.edu/pubs/glove.pdf) [NotebookLM](https://notebooklm.google.com/notebook/38e03431-58e4-424c-96a0-9335ed2375b3) | | |
 | 2013 | Distributed Representations of Words and Phrases and their Compositionality | Google | [Paper](https://arxiv.org/pdf/1310.4546) [NotebookLM](https://notebooklm.google.com/notebook/677909a2-0260-40cf-ac8b-5ef96055fdee?authuser=1) [Podcast](https://notebooklm.google.com/notebook/677909a2-0260-40cf-ac8b-5ef96055fdee/audio)| word2vec | | |
-
+| 1997 | Long Short-Term Memory | Neural Computation, MIT | [Paper](https://deeplearning.cs.cmu.edu/S23/document/readings/LSTM.pdf) [NotebookLM](https://notebooklm.google.com/notebook/659a2cee-c528-4849-b208-b75fadd72b4f?authuser=4) |  LSTM | | |
 ### Blog posts
 * [2025-06-26] [Blog](https://www.dbreunig.com/2025/06/26/how-to-fix-your-context.html) How to fix your context by Drew Breuning #context-engineering #tips
 * [2025-06-22] [Blog](https://www.dbreunig.com/2025/06/22/how-contexts-fail-and-how-to-fix-them.html) How long contexts fail by Drew Breuning #context-engineering #fail
