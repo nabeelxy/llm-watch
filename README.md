@@ -54,6 +54,7 @@ If you are interested in keeping up with LLM/Agent threat landscape, I encourage
 | Sep 2024 | Michelangelo: Long Context Evaluations Beyond Haystacks via Latent Structure Queries | Google | [Paper](https://arxiv.org/pdf/2409.12640) | long context, evaluation | | |
 | Sep 2024 | RLAIF vs. RLHF: Scaling Reinforcement Learning from Human Feedback with AI Feedback | ICML 2024 | [Paper](https://arxiv.org/pdf/2309.00267v3) | RFAIF, RLHF | ||
 | Sep 2024 | Assessing Adversarial Robustness of Large Language Models: An Empirical Study | arXiv | [Paper](https://arxiv.org/pdf/2405.02764) | llm, aml, robustness | | |
+| Jul 2024 | Direct Preference Optimization: Your Language Model is Secretly a Reward Model | Stanford | [Paper](https://arxiv.org/pdf/2305.18290) | DPO, reward model, optimization | | |
 | Jun 2024 | TinyLlama: An Open-Source Small Language Model | SUTD, arXiv | [Paper](https://arxiv.org/pdf/2401.02385) | 1.1B, FlashAttention, Lit-GPT | [GitHub](https://github.com/jzhang38/TinyLlama) | |
 | May 2024 | Mamba: Linear-Time Sequence Modeling with Selective State Spaces | CMU, Princeton | [Paper](https://arxiv.org/pdf/2312.00752) | Mamba | | |
 | Jul 2023 | Llama 2: Open Foundation and Fine-Tuned ChatModels | Meta | [Paper](https://arxiv.org/pdf/2307.09288) | open source FM, Llama2-Chat | | |
