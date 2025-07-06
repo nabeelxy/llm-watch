@@ -111,7 +111,7 @@ If you are interested in keeping up with LLM/Agent threat landscape, I encourage
 #### Useful Links
 * Awesome Graph LLM references [repo](https://github.com/XiaoxinHe/Awesome-Graph-LLM)
 
-### Influential Papers in NLP
+### Influential Papers in NLP (Before ChatGPT in Nov 2022)
 | Date | Title | Venue | Materials | Tags | Code | Summary |
 | --- | --- | --- | --- | --- | --- | --- |
 | 2022 | Training language models to follow instructions with human feedback | OpenAI | [Paper](https://arxiv.org/pdf/2203.02155) [Notebook](https://notebooklm.google.com/notebook/6ea736d5-b5ad-4ea2-b170-f15c82b52115?authuser=3)| InstructGPT, RLHF, LLM | | |
