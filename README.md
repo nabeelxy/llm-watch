@@ -55,6 +55,7 @@ If you are interested in keeping up with LLM/Agent threat landscape, I encourage
 | Sep 2024 | RLAIF vs. RLHF: Scaling Reinforcement Learning from Human Feedback with AI Feedback | ICML 2024 | [Paper](https://arxiv.org/pdf/2309.00267v3) | RFAIF, RLHF | ||
 | Sep 2024 | Assessing Adversarial Robustness of Large Language Models: An Empirical Study | arXiv | [Paper](https://arxiv.org/pdf/2405.02764) | llm, aml, robustness | | |
 | Jan 2023 | Chain-of-Thought Prompting Elicits Reasoning in Large Language Models | Google Research | [Paper](https://arxiv.org/pdf/2201.11903) | CoT | | |
+| Dec 2022 | Constitutional AI: Harmlessness from AI Feedback | Anthropic | [Paper](https://arxiv.org/pdf/2212.08073) | RLAIF, no human labels | | |
 | Jun 2022 | Switch Transformers: Scaling to Trillion Parameter Models with Simple and Efficient Sparsity | arXiv | [Paper](https://arxiv.org/pdf/2101.03961) | transformers, moe | | |
 
 ### Agents
