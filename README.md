@@ -109,6 +109,7 @@ If you are interested in keeping up with LLM/Agent threat landscape, I encourage
 | Date | Title | Venue | Materials | Tags | Code | Summary |
 | --- | --- | --- | --- | --- | --- | --- |
 | 2022 | Training language models to follow instructions with human feedback | OpenAI | [Paper](https://arxiv.org/pdf/2203.02155) [Notebook](https://notebooklm.google.com/notebook/6ea736d5-b5ad-4ea2-b170-f15c82b52115?authuser=3)| InstructGPT, RLHF, LLM | | |
+| 2022 | PaLM: Scaling Language Modeling with Pathways | Google Research | [Paper](https://arxiv.org/pdf/2204.02311) [NotebookLM](https://notebooklm.google.com/notebook/7c95a433-9319-4d63-b783-7b819272be0b?authuser=1)| PaLM, LLM | | |
 | 2022 | Training Compute-Optimal Large Language Models | Google DeepMind | [Paper](https://arxiv.org/pdf/2203.15556) [NotebookLM](https://notebooklm.google.com/notebook/2b0277f9-aa10-4206-8004-41d0d35730f6)| chinchilla, LLM | | |
 | 2021 | LORA: LOW-RANK ADAPTATION OF LARGE LANGUAGE MODELS | Microsoft | [Paper](https://arxiv.org/pdf/2106.09685) [NotebookLM](https://notebooklm.google.com/notebook/ee05a51e-7bb9-4e2a-bee6-f90353a3d7a9) [Podcast](https://notebooklm.google.com/notebook/ee05a51e-7bb9-4e2a-bee6-f90353a3d7a9/audio)| LoRA, fine-tuning | | |
 | 2020 | Language Models are Few-Shot Learners | OpenAI | [Paper](https://arxiv.org/pdf/2005.14165) [NotebookLM](https://notebooklm.google.com/notebook/d0ef99d0-400e-4b46-80f5-4c363f6b4cbe) [Podcast](https://notebooklm.google.com/notebook/d0ef99d0-400e-4b46-80f5-4c363f6b4cbe/audio)| GPT-3 | | |
