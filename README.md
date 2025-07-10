@@ -155,4 +155,5 @@ If you are interested in keeping up with LLM/Agent threat landscape, I encourage
 
 
 ### Notable Repos
+* [12-factor agents](https://github.com/humanlayer/12-factor-agents) Principles of building LLM agents for prodcution
 * [MetaGPT](https://github.com/FoundationAgents/MetaGPT) - Multi-Agent Framework for software development
