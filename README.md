@@ -66,6 +66,7 @@ If you are interested in keeping up with LLM/Agent threat landscape, I encourage
 ### Agents
 | Date |Title | Venue | Materials | Tags | Code | Summary |
 | --- | --- | --- | --- | --- | --- | --- |
+| Jul 2025 | Establishing Best Practices for Building Rigorous Agentic Benchmarks | arXiv | [Paper](https://www.arxiv.org/pdf/2507.02825) | agentic benchmark, CVE-bench | | |
 | Jun 2025 | DEEP RESEARCH AGENTS: A SYSTEMATIC EXAMINATION AND ROADMAP | arXiv | [Paper](https://arxiv.org/pdf/2506.18096) [NotebookLM](https://notebooklm.google.com/notebook/2985c2ac-1c95-462c-a69a-54d74b317167) [Podcast](https://notebooklm.google.com/notebook/2985c2ac-1c95-462c-a69a-54d74b317167/audio)| deep research, mcp | | |
 | May 2025 | Multi-Agent Collaboration via Evolving Orchestration | arXiv | [Paper](https://arxiv.org/pdf/2505.19591) | puppet master, RL, orchestrator, multi-agent system | | [Note](https://github.com/nabeelxy/llm-watch/blob/main/reviews/puppet-master.md)|
 | May 2025 | Pre-Act: Multi-Step Planning and Reasoning Improves Acting in LLM Agents | arXiv | [Paper](https://arxiv.org/pdf/2505.09970) | Planning ahead, ReAct, planning, multi-agent | | [Note](https://github.com/nabeelxy/llm-watch/blob/main/reviews/preact.md)|
