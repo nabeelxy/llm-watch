@@ -98,6 +98,7 @@ If you are interested in keeping up with LLM/Agent threat landscape, I encourage
 ### Small Language Models
 | Date | Title | Venue | Materials | Tags | Code | Summary |
 | --- | --- | --- | --- | --- | --- | --- |
+| Jul 2025 | rStar-Math: Small LLMs Can Master Math Reasoning with Self-Evolved Deep Thinking | ICML 2025 | [Paper](https://openreview.net/pdf?id=5zwF1GizFa) [NotebookLM](https://notebooklm.google.com/notebook/ea54dfcf-7cdf-4c94-9ce1-b8117746300c) | deep thinking through MCTS, PPM, AIME | [Github](https://github.com/microsoft/rStar) | |
 | May 2025 | Llama-Nemotron: Efficient Reasoning Models | arXiv, Nvidia | [Paper](https://arxiv.org/pdf/2505.00949) | efficient reasoning, llama | | |
 | Apr 2025 | Phi-4-Mini-Reasoning: Exploring the Limits of Small Reasoning Language Models in Math | arXiv | [Paper](https://arxiv.org/pdf/2504.21233) | reason, slm, distill, CoT | | |
 | Feb 2025 | Can 1B LLM Surpass 405B LLM? Rethinking Compute-Optimal Test-Time Scaling | arXiv | [Paper]() | test-time scaling (TTS), math-500, aime24, process reward models (PRMs) | | |
