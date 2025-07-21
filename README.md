@@ -111,6 +111,7 @@ If you are interested in keeping up with LLM/Agent threat landscape, I encourage
 ### Graph Foundation Models
 | Date |Title | Venue | Materials | Tags | Code | Summary |
 | --- | --- | --- | --- | --- | --- | --- |
+| Jul 2025  | AutoGFM: Automated Graph Foundation Model with Adaptive Architecture Customization | ICML 2025 | [Paper](https://openreview.net/pdf?id=fCPB0qRJT2) | adaptive architecture | | |
 |Mar 2025 | Graph Foundation Models: Concepts, Opportunities and Challenges | arXiv | [Paper](https://arxiv.org/pdf/2310.11829) | gnn, llm, gfm | | |
 
 #### Useful Links
