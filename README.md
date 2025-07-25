@@ -109,6 +109,7 @@ If you are interested in keeping up with LLM/Agent threat landscape, I encourage
 ### LLM/AI Applciations/Engineering
 | Date | Title | Venue | Materials | Tags | Code | Summary |
 | --- | --- | --- | --- | --- | --- | --- |
+| Jul 2025 | A Survey of Context Engineering for Large Language Models | arXiv | [Paper](https://arxiv.org/pdf/2507.13334) | survey, context engineering | | |
 | Jun 2025 | A Practical Guide for Evaluating LLMs and LLM-Reliant Systems | Google | [Paper](https://arxiv.org/pdf/2506.13023) | evaluation framework, LLM-reliant systems | | |
 | Mar 2025 | REALM: A Dataset of Real-World LLM Use Cases | arXiv | [Paper](https://arxiv.org/pdf/2503.18792v1) | LLM applications, use cases, news | | |
 
