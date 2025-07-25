@@ -69,6 +69,7 @@ If you are interested in keeping up with LLM/Agent threat landscape, I encourage
 ### Agents
 | Date |Title | Venue | Materials | Tags | Code | Summary |
 | --- | --- | --- | --- | --- | --- | --- |
+| Jul 2025 | Deep Researcher with Test-Time Diffusion | Google Cloud | [Paper](https://www.arxiv.org/pdf/2507.16075) | self-evolutionary algorithm, diffusion | | |
 | Jul 2025 |  AutoML-Agent: A Multi-Agent LLM Framework for Full-Pipeline AutoML | ICML 2025 | [Paper](https://openreview.net/pdf?id=p1UBWkOvZm) [NotebookLM](https://notebooklm.google.com/notebook/f5513c77-8e11-4ff2-a685-b2847500757e?pli=1&authuser=1&original_referer=https:%2F%2Fgds.google.com%23) | LLM, AutoLM | | |
 | Jul 2025 | Establishing Best Practices for Building Rigorous Agentic Benchmarks | arXiv | [Paper](https://www.arxiv.org/pdf/2507.02825) | agentic benchmark, CVE-bench | | |
 | Jun 2025 | DEEP RESEARCH AGENTS: A SYSTEMATIC EXAMINATION AND ROADMAP | arXiv | [Paper](https://arxiv.org/pdf/2506.18096) [NotebookLM](https://notebooklm.google.com/notebook/2985c2ac-1c95-462c-a69a-54d74b317167) [Podcast](https://notebooklm.google.com/notebook/2985c2ac-1c95-462c-a69a-54d74b317167/audio)| deep research, mcp | | |
