@@ -17,6 +17,7 @@ If you are interested in keeping up with LLM/Agent threat landscape, I encourage
 ### Large Language Models
 | Date | Title | Venue | Materials | Tags | Code | Summary |
 | --- | --- | --- | --- | --- | --- | --- |
+| Aug 2025 | OptimalThinkingBench: Evaluating Over and Underthinking in LLMs | Meta | [Paper](https://www.arxiv.org/pdf/2508.13141) | thinking, benchmark | | |
 | Aug 2025 |  We Have a Package for You! A Comprehensive Analysis of Package Hallucinations by Code Generating LLMs | Usenix Security 2025 | [Paper](https://arxiv.org/pdf/2406.10279) [NotebookLM](https://notebooklm.google.com/notebook/6495317c-4a13-4909-815f-bcc4bd96f167?authuser=1) [Podcast](https://notebooklm.google.com/notebook/6495317c-4a13-4909-815f-bcc4bd96f167/audio)| llm, hallucination, packages, code generation | | |
 | Jul 2025 | Learning without training: The implicit dynamics of in-context learning | Google | [Paper](https://arxiv.org/pdf/2507.16003) [NotebookLM](https://notebooklm.google.com/notebook/f0f72407-5625-41f9-b2bc-7e0e37116eac?authuser=1)| in-context learning, implicit weight update | | |
 | Jul 2025 | Gemini 2.5: Pushing the Frontier with Advanced Reasoning, Multimodality, Long Context, and Next Generation Agentic Capabilities | Google | [Paper](https://arxiv.org/pdf/2507.06261) [NotebookLM](https://notebooklm.google.com/notebook/16f5464a-bffb-4d3e-ae6d-4cedef0ca8a1?authuser=1) | Gemini 2.5, multi-modal, reasoning, agentic, context | | |
