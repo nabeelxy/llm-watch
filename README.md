@@ -105,6 +105,8 @@ If you are interested in keeping up with LLM/Agent threat landscape, I encourage
 ### Small Language Models
 | Date | Title | Venue | Materials | Tags | Code | Summary |
 | --- | --- | --- | --- | --- | --- | --- |
+| Aug 2025 | Jet-Nemotron: Efficient Language Model with Post
+Neural Architecture Search | Nvidia | [Paper](https://arxiv.org/abs/2508.15884) [NotebookLM](https://notebooklm.google.com/notebook/cc6ddfc7-5d54-42a3-9f38-ada185c14e2f?authuser=1) | NAS, Distillation, linear attention | [Github](https://github.com/NVlabs/Jet-Nemotron)| |
 | Jul 2025 | rStar-Math: Small LLMs Can Master Math Reasoning with Self-Evolved Deep Thinking | ICML 2025 | [Paper](https://openreview.net/pdf?id=5zwF1GizFa) [NotebookLM](https://notebooklm.google.com/notebook/ea54dfcf-7cdf-4c94-9ce1-b8117746300c) | deep thinking through MCTS, PPM, AIME | [Github](https://github.com/microsoft/rStar) | |
 | May 2025 | Llama-Nemotron: Efficient Reasoning Models | arXiv, Nvidia | [Paper](https://arxiv.org/pdf/2505.00949) | efficient reasoning, llama | | |
 | Apr 2025 | Phi-4-Mini-Reasoning: Exploring the Limits of Small Reasoning Language Models in Math | arXiv | [Paper](https://arxiv.org/pdf/2504.21233) | reason, slm, distill, CoT | | |
