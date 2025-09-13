@@ -150,6 +150,7 @@ Neural Architecture Search | Nvidia | [Paper](https://arxiv.org/abs/2508.15884) 
 | 1997 | Long Short-Term Memory | Neural Computation, MIT | [Paper](https://deeplearning.cs.cmu.edu/S23/document/readings/LSTM.pdf) [NotebookLM](https://notebooklm.google.com/notebook/659a2cee-c528-4849-b208-b75fadd72b4f?authuser=4) [Podcast](https://notebooklm.google.com/notebook/659a2cee-c528-4849-b208-b75fadd72b4f/audio)|  LSTM | | |
 
 ### Blog posts
+* [2025-09-10] [Blog](https://thinkingmachines.ai/blog/defeating-nondeterminism-in-llm-inference/) Defeating Nondeterminism in LLM Infernece by Thinking Machines. #floating-point #vLLM #FlexAttention
 * [2025-07-24] [Case Study](https://www.anthropic.com/news/how-anthropic-teams-use-claude-code) How Anthropic teams use Claude code by Anthropic.
 * [2025-06-26] [Blog](https://www.dbreunig.com/2025/06/26/how-to-fix-your-context.html) How to fix your context by Drew Breuning #context-engineering #tips
 * [2025-06-22] [Blog](https://www.dbreunig.com/2025/06/22/how-contexts-fail-and-how-to-fix-them.html) How long contexts fail by Drew Breuning #context-engineering #fail
