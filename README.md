@@ -72,6 +72,7 @@ If you are interested in keeping up with LLM/Agent threat landscape, I encourage
 ### Agents
 | Date |Title | Venue | Materials | Tags | Code | Summary |
 | --- | --- | --- | --- | --- | --- | --- |
+| Sep 2025 | LIMI: Less is More for Agency | arXiv | [Paper](https://arxiv.org/pdf/2509.17567) | agency, anti-scaling-law | | |
 | Aug 2025 | Memento: Fine-tuning LLM Agents without Fine-tuning LLMs | arXiv, AI Center | [Paper](https://www.arxiv.org/pdf/2508.16153) [NotebookLM](https://notebooklm.google.com/notebook/7a5267cd-7c6e-4d58-be34-347353b8e412?authuser=1) | fine-tuning, GAIA | [Github](https://github.com/Agent-on-the-Fly/Memento) | |
 | Jul 2025 | Deep Researcher with Test-Time Diffusion | Google Cloud | [Paper](https://www.arxiv.org/pdf/2507.16075) | self-evolutionary algorithm, diffusion | | |
 | Jul 2025 |  AutoML-Agent: A Multi-Agent LLM Framework for Full-Pipeline AutoML | ICML 2025 | [Paper](https://openreview.net/pdf?id=p1UBWkOvZm) [NotebookLM](https://notebooklm.google.com/notebook/f5513c77-8e11-4ff2-a685-b2847500757e?pli=1&authuser=1&original_referer=https:%2F%2Fgds.google.com%23) | LLM, AutoLM | | |
