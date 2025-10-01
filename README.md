@@ -17,6 +17,7 @@ If you are interested in keeping up with LLM/Agent threat landscape, I encourage
 ### Large Language Models
 | Date | Title | Venue | Materials | Tags | Code | Summary |
 | --- | --- | --- | --- | --- | --- | --- |
+| Sep 2025 | Soft Tokens, Hard Truths | UA, Meta, NYU | [Paper](https://www.arxiv.org/pdf/2509.19170) | CoT, continuous CoT, RL | | [Note](https://github.com/nabeelxy/llm-watch/blob/main/reviews/soft_tokens_sep_2025.md) |
 | Sep 2025 | MIXTURE OF THOUGHTS: LEARNING TO AGGREGATE WHAT EXPERTS THINK, NOT JUST WHAT THEY SAY | USC, arXiv | [Paper](https://arxiv.org/pdf/2509.21164) | routing, mixture models | | |
 | Aug 2025 | OptimalThinkingBench: Evaluating Over and Underthinking in LLMs | Meta | [Paper](https://www.arxiv.org/pdf/2508.13141) | thinking, benchmark | | |
 | Aug 2025 |  We Have a Package for You! A Comprehensive Analysis of Package Hallucinations by Code Generating LLMs | Usenix Security 2025 | [Paper](https://arxiv.org/pdf/2406.10279) [NotebookLM](https://notebooklm.google.com/notebook/6495317c-4a13-4909-815f-bcc4bd96f167?authuser=1) [Podcast](https://notebooklm.google.com/notebook/6495317c-4a13-4909-815f-bcc4bd96f167/audio)| llm, hallucination, packages, code generation | | |
