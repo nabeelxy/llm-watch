@@ -17,6 +17,7 @@ If you are interested in keeping up with LLM/Agent threat landscape, I encourage
 ### Large Language Models
 | Date | Title | Venue | Materials | Tags | Code | Summary |
 | --- | --- | --- | --- | --- | --- | --- |
+| Oct 2025 | DEEPSEARCH: OVERCOME THE BOTTLENECK OF REINFORCEMENT LEARNING WITH VERIFIABLE REWARDS VIA MONTE CARLO TREE SEARCH | arXiv, Hugginface, Stanford | [Paper](https://arxiv.org/pdf/2509.25454) | RLVR, train-efficiency | | |
 | Sep 2025 | Soft Tokens, Hard Truths | UA, Meta, NYU | [Paper](https://www.arxiv.org/pdf/2509.19170) [NotebookLM](https://notebooklm.google.com/notebook/727bc6ea-465d-4dcc-8048-b9f85b097631?authuser=1) [Podcast](https://notebooklm.google.com/notebook/727bc6ea-465d-4dcc-8048-b9f85b097631?artifactId=293a1f3b-1e0a-4af5-8c9d-db491c8612e2)| CoT, continuous CoT, RL | | [Note](https://github.com/nabeelxy/llm-watch/blob/main/reviews/soft_tokens_sep_2025.md) |
 | Sep 2025 | MIXTURE OF THOUGHTS: LEARNING TO AGGREGATE WHAT EXPERTS THINK, NOT JUST WHAT THEY SAY | USC, arXiv | [Paper](https://arxiv.org/pdf/2509.21164) | routing, mixture models | | |
 | Aug 2025 | OptimalThinkingBench: Evaluating Over and Underthinking in LLMs | Meta | [Paper](https://www.arxiv.org/pdf/2508.13141) | thinking, benchmark | | |
