@@ -155,6 +155,7 @@ Neural Architecture Search | Nvidia | [Paper](https://arxiv.org/abs/2508.15884) 
 | 1997 | Long Short-Term Memory | Neural Computation, MIT | [Paper](https://deeplearning.cs.cmu.edu/S23/document/readings/LSTM.pdf) [NotebookLM](https://notebooklm.google.com/notebook/659a2cee-c528-4849-b208-b75fadd72b4f?authuser=4) [Podcast](https://notebooklm.google.com/notebook/659a2cee-c528-4849-b208-b75fadd72b4f/audio)|  LSTM | | |
 
 ### Blog posts
+* [2025-10-09] [Blog](https://www.anthropic.com/research/small-samples-poison) A small number of samples can poison LLMs of any size by Anthropic. #poisoning #aml #gibberish-text #fixed-poisoned-dataset ([Paper](https://arxiv.org/pdf/2510.07192))
 * [2025-10-03] [Blog](https://www.anthropic.com/research/building-ai-cyber-defenders) Building AI for Cyber Defenders by Anthropic. #CTF #vulnerability-discovery #Cybench #CyberGym #patching #RedTeaming
 * [2025-09-29] [Blog](http://thinkingmachines.ai/blog/lora/) LoRA with Regret by Thinking Machines. #post-training #PEFT #LoRA
 * [2025-09-22] [Blog](https://huggingface.co/blog/gaia2) Gaia2 and ARE: Empowering the Community to Evaluate Agents by HuggingFace and Meta. #agent-eval #dataset #benchmark
