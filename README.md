@@ -75,6 +75,7 @@ If you are interested in keeping up with LLM/Agent threat landscape, I encourage
 ### Agents
 | Date |Title | Venue | Materials | Tags | Code | Summary |
 | --- | --- | --- | --- | --- | --- | --- |
+| Oct 2025 | Agentic Context Engineering: Evolving Contexts for Self-Improving Language Models | arXiv, Stanford | [Paper](https://www.arxiv.org/pdf/2510.04618) [NotebookLM](https://notebooklm.google.com/notebook/732391f2-5938-4e61-b92a-d71c4c283265?authuser=1) | agentic LLM, context collapse, brevity bias, generator-reflector-curator | | |
 | Sep 2025 | LIMI: Less is More for Agency | arXiv | [Paper](https://arxiv.org/pdf/2509.17567) | agency, anti-scaling-law | | |
 | Aug 2025 | Memento: Fine-tuning LLM Agents without Fine-tuning LLMs | arXiv, AI Center | [Paper](https://www.arxiv.org/pdf/2508.16153) [NotebookLM](https://notebooklm.google.com/notebook/7a5267cd-7c6e-4d58-be34-347353b8e412?authuser=1) | fine-tuning, GAIA | [Github](https://github.com/Agent-on-the-Fly/Memento) | |
 | Jul 2025 | Deep Researcher with Test-Time Diffusion | Google Cloud | [Paper](https://www.arxiv.org/pdf/2507.16075) | self-evolutionary algorithm, diffusion | | |
