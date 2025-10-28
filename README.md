@@ -156,6 +156,7 @@ Neural Architecture Search | Nvidia | [Paper](https://arxiv.org/abs/2508.15884) 
 | 1997 | Long Short-Term Memory | Neural Computation, MIT | [Paper](https://deeplearning.cs.cmu.edu/S23/document/readings/LSTM.pdf) [NotebookLM](https://notebooklm.google.com/notebook/659a2cee-c528-4849-b208-b75fadd72b4f?authuser=4) [Podcast](https://notebooklm.google.com/notebook/659a2cee-c528-4849-b208-b75fadd72b4f/audio)|  LSTM | | |
 
 ### Blog posts
+* [2025-10-27] [Blog](https://thinkingmachines.ai/blog/on-policy-distillation/) On Policy Distillation by Thinking Machines. #post-training #distillation #on-policy-rl #off-policy-distillation
 * [2025-10-09] [Blog](https://www.anthropic.com/research/small-samples-poison) A small number of samples can poison LLMs of any size by Anthropic. #poisoning #aml #gibberish-text #fixed-poisoned-dataset ([Paper](https://arxiv.org/pdf/2510.07192))
 * [2025-10-06] [Blog](https://deepmind.google/discover/blog/introducing-codemender-an-ai-agent-for-code-security/) Introducing CodeMender: an AI agent for code security by Google DeepMind. #agent #thinking #vulnerability-patching
 * [2025-10-03] [Blog](https://www.anthropic.com/research/building-ai-cyber-defenders) Building AI for Cyber Defenders by Anthropic. #CTF #vulnerability-discovery #Cybench #CyberGym #patching #RedTeaming
