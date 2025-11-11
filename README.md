@@ -127,6 +127,7 @@ If you are interested in keeping up with LLM/Agent threat landscape, I encourage
 | Date | Title | Venue | Materials | Tags | Code | Summary |
 | --- | --- | --- | --- | --- | --- | --- |
 | Oct 2025 | Context Engineering 2.0 | ASI | [Paper](https://arxiv.org/pdf/2510.26493) | context, history, foundation, design choices | | |
+| Oct 2025 | Agentic Context Engineering: Evolving Contexts for Self-Improving Language Models | Stanford | [Paper](https://arxiv.org/pdf/2510.04618) | brevity bias, context collapse, AppWorld | | |
 | Jul 2025 | A Survey of Context Engineering for Large Language Models | arXiv | [Paper](https://arxiv.org/pdf/2507.13334) | survey, context engineering | | |
 | Jun 2025 | A Practical Guide for Evaluating LLMs and LLM-Reliant Systems | Google | [Paper](https://arxiv.org/pdf/2506.13023) | evaluation framework, LLM-reliant systems | | |
 | Mar 2025 | REALM: A Dataset of Real-World LLM Use Cases | arXiv | [Paper](https://arxiv.org/pdf/2503.18792v1) | LLM applications, use cases, news | | |
