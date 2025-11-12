@@ -165,6 +165,7 @@ If you are interested in keeping up with LLM/Agent threat landscape, I encourage
 * [2025-10-09] [Blog](https://www.anthropic.com/research/small-samples-poison) A small number of samples can poison LLMs of any size by Anthropic. #poisoning #aml #gibberish-text #fixed-poisoned-dataset ([Paper](https://arxiv.org/pdf/2510.07192))
 * [2025-10-06] [Blog](https://deepmind.google/discover/blog/introducing-codemender-an-ai-agent-for-code-security/) Introducing CodeMender: an AI agent for code security by Google DeepMind. #agent #thinking #vulnerability-patching
 * [2025-10-03] [Blog](https://www.anthropic.com/research/building-ai-cyber-defenders) Building AI for Cyber Defenders by Anthropic. #CTF #vulnerability-discovery #Cybench #CyberGym #patching #RedTeaming
+* [2025-09-29] [Blog](https://www.anthropic.com/engineering/effective-context-engineering-for-ai-agents) Effective context engineering for AI agents by Anthropic. #context-engineering #prompt-engineering
 * [2025-09-29] [Blog](http://thinkingmachines.ai/blog/lora/) LoRA with Regret by Thinking Machines. #post-training #PEFT #LoRA
 * [2025-09-22] [Blog](https://huggingface.co/blog/gaia2) Gaia2 and ARE: Empowering the Community to Evaluate Agents by HuggingFace and Meta. #agent-eval #dataset #benchmark
 * [2025-09-11] [Blog](https://www.anthropic.com/engineering/writing-tools-for-agents) Writing Effective Tools for Agents by Anthropic. #agents #tools #playbook
