@@ -197,5 +197,7 @@ If you are interested in keeping up with LLM/Agent threat landscape, I encourage
 
 
 ### Notable Repos
+* [Eval Plus](https://github.com/evalplus/evalplus) Eval Plus for LLM evaluation (1.6k stars as of Nov 2025)
+* [Deep Eval](https://github.com/confident-ai/deepeval) Deep Eval by ConfidentAI - LLM evaluation framework (12.1k starts as of Nov 2025)
 * [12-factor agents](https://github.com/humanlayer/12-factor-agents) Principles of building LLM agents for prodcution
 * [MetaGPT](https://github.com/FoundationAgents/MetaGPT) - Multi-Agent Framework for software development
