@@ -77,6 +77,7 @@ If you are interested in keeping up with LLM/Agent threat landscape, I encourage
 ### Agents
 | Date |Title | Venue | Materials | Tags | Code | Summary |
 | --- | --- | --- | --- | --- | --- | --- |
+| Nov 2025 | Agent0: Unleashing Self-Evolving Agents from Zero Data via Tool-Integrated Reasoning | arXiv, Stanford | [Paper](https://arxiv.org/pdf/2511.16043) | evolution, self-improving | [Github](https://github.com/aiming-lab/Agent0) | |
 | Oct 2025 | HOLISTIC AGENT LEADERBOARD: THE MISSING INFRASTRUCTURE FOR AI AGENT EVALUATION | arXiv, Princeton | [Paper](https://arxiv.org/pdf/2510.11977) | models, scaffolds, benchmarks | | |
 | Oct 2025 | DeepAgent: A General Reasoning Agent with Scalable Toolsets | arXiv | [Paper](https://arxiv.org/abs/2510.21618) | tool discovery, long horizon tasks, memory | [Github](https://github.com/RUC-NLPIR/DeepAgent) | |
 | Oct 2025 | Agentic Context Engineering: Evolving Contexts for Self-Improving Language Models | arXiv, Stanford | [Paper](https://www.arxiv.org/pdf/2510.04618) [NotebookLM](https://notebooklm.google.com/notebook/732391f2-5938-4e61-b92a-d71c4c283265?authuser=1) | agentic LLM, context collapse, brevity bias, generator-reflector-curator | | |
