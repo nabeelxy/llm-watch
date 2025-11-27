@@ -164,6 +164,7 @@ If you are interested in keeping up with LLM/Agent threat landscape, I encourage
 | 1997 | Long Short-Term Memory | Neural Computation, MIT | [Paper](https://deeplearning.cs.cmu.edu/S23/document/readings/LSTM.pdf) [NotebookLM](https://notebooklm.google.com/notebook/659a2cee-c528-4849-b208-b75fadd72b4f?authuser=4) [Podcast](https://notebooklm.google.com/notebook/659a2cee-c528-4849-b208-b75fadd72b4f/audio)|  LSTM | | |
 
 ### Blog posts
+* [2025-11-24] [Blog](https://www.anthropic.com/research/prompt-injection-defenses) Mitigating the risk of prompt injections in browser use by Anthropic. #indirect-prompt-injection #browser-user #best-of-N
 * [2025-11-23] [Blog](https://www.anthropic.com/research/emergent-misalignment-reward-hacking) From shortcuts to sabotage: natural emergent misalignment from reward hacking by Anthropic. #alignment [Paper](https://assets.anthropic.com/m/74342f2c96095771/original/Natural-emergent-misalignment-from-reward-hacking-paper.pdf)
 * [2025-11-04] [Cookbook](https://cookbook.openai.com/examples/partners/self_evolving_agents/autonomous_agent_retraining) Self-Evolving Agents - A Cookbook for Autonomous Agent Retraining by OpenAI. #repeatable-training #feedback #agents
 * [2025-11-01] [Blog](https://www.distillabs.ai/blog/vibe-tuning-the-art-of-fine-tuning-small-language-models-with-a-prompt) Vibe-Tuning: The Art of Fine-Tuning Small Language Models with a Prompt by Distil Labs. #SLM #fine-tuning #NLP
