@@ -17,7 +17,7 @@ If you are interested in keeping up with LLM/Agent threat landscape, I encourage
 ### Large Language Models
 | Date | Title | Venue | Materials | Tags | Code | Summary |
 | --- | --- | --- | --- | --- | --- | --- |
-| Jan 2026 | mHC: Manifold-Constrained Hyper-Connections | DeepSeek | [Paper](https://arxiv.org/pdf/2512.24880) | hyper-connections, manifold-constrained, performance, scalability | | [Review](https://github.com/nabeelxy/llm-watch/blob/main/reviews/mhc-deepseek.md)|
+| Jan 2026 | mHC: Manifold-Constrained Hyper-Connections | DeepSeek | [Paper](https://arxiv.org/pdf/2512.24880) [NotebookLM](https://notebooklm.google.com/notebook/640da835-9c08-4a10-b965-786cc7a23ae4)| hyper-connections, manifold-constrained, performance, scalability | | [Review](https://github.com/nabeelxy/llm-watch/blob/main/reviews/mhc-deepseek.md)|
 | Jan 2026 | Deep Delta Learning | Princeton | [Paper](https://yifanzhang-pro.github.io/deep-delta-learning/Deep_Delta_Learning.pdf) [NotebookLM](https://notebooklm.google.com/notebook/210f3699-e3bf-421a-a258-47fd0c723be2)| residual architecture | [Website](https://github.com/yifanzhang-pro/deep-delta-learning) | [Review](https://github.com/nabeelxy/llm-watch/blob/main/reviews/deep-delta-learning.md)|
 | Oct 2025 | The Era of Agentic Organization: Learning to Organize with Language Models | Microsoft Research | [Paper](https://www.arxiv.org/pdf/2510.26658) | agumenting, aynchronous thinking | | |
 | Oct 2025 | DEEPSEARCH: OVERCOME THE BOTTLENECK OF REINFORCEMENT LEARNING WITH VERIFIABLE REWARDS VIA MONTE CARLO TREE SEARCH | arXiv, Hugginface, Stanford | [Paper](https://arxiv.org/pdf/2509.25454) | RLVR, train-efficiency | | |
