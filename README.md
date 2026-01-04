@@ -17,7 +17,7 @@ If you are interested in keeping up with LLM/Agent threat landscape, I encourage
 ### Large Language Models
 | Date | Title | Venue | Materials | Tags | Code | Summary |
 | --- | --- | --- | --- | --- | --- | --- |
-| Jan 2026 | mHC: Manifold-Constrained Hyper-Connections | DeepSeek | [Paper](https://arxiv.org/pdf/2512.24880) | hyper-connections, manifold-constrained, performance, scalability | | |
+| Jan 2026 | mHC: Manifold-Constrained Hyper-Connections | DeepSeek | [Paper](https://arxiv.org/pdf/2512.24880) | hyper-connections, manifold-constrained, performance, scalability | | [Review](https://github.com/nabeelxy/llm-watch/blob/main/reviews/mhc-deepseek.md)|
 | Oct 2025 | The Era of Agentic Organization: Learning to Organize with Language Models | Microsoft Research | [Paper](https://www.arxiv.org/pdf/2510.26658) | agumenting, aynchronous thinking | | |
 | Oct 2025 | DEEPSEARCH: OVERCOME THE BOTTLENECK OF REINFORCEMENT LEARNING WITH VERIFIABLE REWARDS VIA MONTE CARLO TREE SEARCH | arXiv, Hugginface, Stanford | [Paper](https://arxiv.org/pdf/2509.25454) | RLVR, train-efficiency | | |
 | Sep 2025 | Soft Tokens, Hard Truths | UA, Meta, NYU | [Paper](https://www.arxiv.org/pdf/2509.19170) [NotebookLM](https://notebooklm.google.com/notebook/727bc6ea-465d-4dcc-8048-b9f85b097631?authuser=1) [Podcast](https://notebooklm.google.com/notebook/727bc6ea-465d-4dcc-8048-b9f85b097631?artifactId=293a1f3b-1e0a-4af5-8c9d-db491c8612e2)| CoT, continuous CoT, RL | | [Note](https://github.com/nabeelxy/llm-watch/blob/main/reviews/soft_tokens_sep_2025.md) |
