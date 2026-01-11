@@ -17,6 +17,7 @@ If you are interested in keeping up with LLM/Agent threat landscape, I encourage
 ### Large Language Models
 | Date | Title | Venue | Materials | Tags | Code | Summary |
 | --- | --- | --- | --- | --- | --- | --- |
+| Jan 2026 | Extracting books from production language models | arXiv, Stanford | [Paper](https://arxiv.org/pdf/2601.02671) | memorization, privacy, copyright | | |
 | Jan 2026 | mHC: Manifold-Constrained Hyper-Connections | DeepSeek | [Paper](https://arxiv.org/pdf/2512.24880) [NotebookLM](https://notebooklm.google.com/notebook/640da835-9c08-4a10-b965-786cc7a23ae4)| hyper-connections, manifold-constrained, performance, scalability | | [Review](https://github.com/nabeelxy/llm-watch/blob/main/reviews/mhc-deepseek.md)|
 | Jan 2026 | Deep Delta Learning | Princeton | [Paper](https://yifanzhang-pro.github.io/deep-delta-learning/Deep_Delta_Learning.pdf) [NotebookLM](https://notebooklm.google.com/notebook/210f3699-e3bf-421a-a258-47fd0c723be2)| residual architecture | [Website](https://github.com/yifanzhang-pro/deep-delta-learning) | [Review](https://github.com/nabeelxy/llm-watch/blob/main/reviews/deep-delta-learning.md)|
 | Dec 2025 | On the Slow Death of Scaling | SSRN | [NotebookLM](https://notebooklm.google.com/notebook/591ed266-1f1e-480b-b480-8b8d12b91c1d) | scale model size, scale training data | | [Review](https://github.com/nabeelxy/llm-watch/blob/main/reviews/slow_death_scaling.md)|
