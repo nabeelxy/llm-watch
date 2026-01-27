@@ -111,7 +111,7 @@ If you are interested in keeping up with LLM/Agent threat landscape, I encourage
 ### Embeddings
 | Date | Title | Venue | Materials | Tags | Code | Summary |
 | --- | --- | --- | --- | --- | --- | --- |
-| Nov 2025 | EmbeddingGemma: Powerful and Lightweight Text Representations | Google | [Paper](https://arxiv.org/pdf/2509.20354) | gemma3, 500m parameters | | |
+| Nov 2025 | EmbeddingGemma: Powerful and Lightweight Text Representations | Google | [Paper](https://arxiv.org/pdf/2509.20354) [NotebookLM](https://notebooklm.google.com/notebook/fe9a9145-b30e-4d68-9829-4c6dd03ff11a?authuser=1)| gemma3, 500m parameters | | |
 
 ### RAG
 | Date | Title | Venue | Materials | Tags | Code | Summary |
