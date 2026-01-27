@@ -108,6 +108,11 @@ If you are interested in keeping up with LLM/Agent threat landscape, I encourage
 | Oct 2024 | Agent-as-a-Judge: Evaluate Agents with Agents | arXiv - Meta | [Paper](https://arxiv.org/pdf/2410.10934) | agent, judge | | |
 | Mar 2023 | REACT: SYNERGIZING REASONING AND ACTING IN LANGUAGE MODELS | ICLR 2023 | [Paper](https://arxiv.org/pdf/2210.03629) | Agent, ReAct pattern | | |
 
+### Embeddings
+| Date | Title | Venue | Materials | Tags | Code | Summary |
+| --- | --- | --- | --- | --- | --- | --- |
+| Nov 2025 | EmbeddingGemma: Powerful and Lightweight Text Representations | Google | [Paper](https://arxiv.org/pdf/2509.20354) | gemma3, 500m parameters | | |
+
 ### RAG
 | Date | Title | Venue | Materials | Tags | Code | Summary |
 | --- | --- | --- | --- | --- | --- | --- |
