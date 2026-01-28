@@ -179,6 +179,7 @@ If you are interested in keeping up with LLM/Agent threat landscape, I encourage
 | 1997 | Long Short-Term Memory | Neural Computation, MIT | [Paper](https://deeplearning.cs.cmu.edu/S23/document/readings/LSTM.pdf) [NotebookLM](https://notebooklm.google.com/notebook/659a2cee-c528-4849-b208-b75fadd72b4f?authuser=4) [Podcast](https://notebooklm.google.com/notebook/659a2cee-c528-4849-b208-b75fadd72b4f/audio)|  LSTM | | |
 
 ### Blog posts
+* [2026-01-10] [Essay](https://www.darioamodei.com/essay/the-adolescence-of-technology) The Adolescence of Technology by Dario Amodei. #ai #future
 * [2026-01-09] [Blog](https://www.anthropic.com/engineering/demystifying-evals-for-ai-agents) Demystifying evals for AI agents by Anthropic. #agent #evals
 * [2025-12-19] [Blog](https://karpathy.bearblog.dev/year-in-review-2025/) 2025 LLM Year in Review by Andrey Karpathy. #llm #2025 #RLVR #Cursor #VibeCoding #ClaudeCode #NanoBanana
 * [2025-11-24] [Blog](https://www.anthropic.com/research/prompt-injection-defenses) Mitigating the risk of prompt injections in browser use by Anthropic. #indirect-prompt-injection #browser-user #best-of-N
