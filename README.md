@@ -222,6 +222,7 @@ If you are interested in keeping up with LLM/Agent threat landscape, I encourage
 
 
 ### Notable Repos
+* [Claude-Mem](https://github.com/thedotmack/claude-mem) Claude-Mem: A Claude Code plugin that automatically captures everything Claude does. (16k stars as of Jan 2026)
 * [OpenClaw](https://github.com/openclaw/openclaw) OpenClaw: Personal AI Assistant (135k starts on 2026-01-31)
 * [ART](https://github.com/OpenPipe/ART) ART: Agent Reinforcement Trainer (8.3k stars as of Jan 2026)
 * [Garak](https://github.com/NVIDIA/garak/) Garak: LLM vulnerability scanner by Nvidia (6.7k stars as of Jan 2026)
