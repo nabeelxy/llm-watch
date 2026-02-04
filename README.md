@@ -223,6 +223,7 @@ If you are interested in keeping up with LLM/Agent threat landscape, I encourage
 
 ### Notable Repos
 * [Claude-Mem](https://github.com/thedotmack/claude-mem) Claude-Mem: A Claude Code plugin that automatically captures everything Claude does. (16k stars as of Jan 2026)
+* [ContextFort](https://github.com/ContextFort-AI/ContextFort) ContextFort: Visibility for browser agents. 
 * [AirLLM](https://github.com/lyogavin/airllm) AirLLM: 70B inference with single 4GB GPU. (10.3k stars as of Jan 2026)
 * [OpenClaw](https://github.com/openclaw/openclaw) OpenClaw: Personal AI Assistant (135k starts on 2026-01-31)
 * [mcp-scan](https://github.com/invariantlabs-ai/mcp-scan) Scan for MCP security vulnerabilities (1.3K starts as of Jan 2026)
