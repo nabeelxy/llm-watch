@@ -225,6 +225,7 @@ If you are interested in keeping up with LLM/Agent threat landscape, I encourage
 * [Claude-Mem](https://github.com/thedotmack/claude-mem) Claude-Mem: A Claude Code plugin that automatically captures everything Claude does. (16k stars as of Jan 2026)
 * [AirLLM](https://github.com/lyogavin/airllm) AirLLM: 70B inference with single 4GB GPU. (10.3k stars as of Jan 2026)
 * [OpenClaw](https://github.com/openclaw/openclaw) OpenClaw: Personal AI Assistant (135k starts on 2026-01-31)
+* [mcp-scan](https://github.com/invariantlabs-ai/mcp-scan) Scan for MCP security vulnerabilities (1.3K starts as of Jan 2026)
 * [ART](https://github.com/OpenPipe/ART) ART: Agent Reinforcement Trainer (8.3k stars as of Jan 2026)
 * [Garak](https://github.com/NVIDIA/garak/) Garak: LLM vulnerability scanner by Nvidia (6.7k stars as of Jan 2026)
 * [DeepCode](https://github.com/HKUDS/DeepCode) DeepCode: Open Agentic Coding (13.3k stars as of Jan 2026)
