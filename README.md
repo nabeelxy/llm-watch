@@ -85,6 +85,7 @@ If you are interested in keeping up with LLM/Agent threat landscape, I encourage
 ### Agents
 | Date |Title | Venue | Materials | Tags | Code | Summary |
 | --- | --- | --- | --- | --- | --- | --- |
+| Feb 2026 | Collective Behavior of AI Agents: the Case of Moltbook | arXiv | [Paper](https://arxiv.org/pdf/2602.09270) | openclaw, social network, behavior, moltbook | | |
 | Jan 2026 | A Survey on Agent-as-a-Judge | arXiv | [Paper](https://arxiv.org/pdf/2601.05111) [NotebookLM](https://notebooklm.google.com/notebook/845ac370-ad64-425a-b6d0-22cec3b0691b)| llm-as-a-judge, evals | [Github](https://github.com/ModalityDance/Awesome-Agent-as-a-Judge) | [Review](https://github.com/nabeelxy/llm-watch/blob/main/reviews/survey_agent_as_a_judge.md)|
 | Dec 2025 | Small Language Models for Efficient Agentic Tool Calling: Outperforming Large Models with Targeted Fine-tuning | AWS | [Paper](https://arxiv.org/pdf/2512.15943) [NotebookLM](https://notebooklm.google.com/notebook/61f56d0d-7dbb-4c0b-a888-6e268a398fc8)| slm, tool calling | | [Review](https://github.com/nabeelxy/llm-watch/blob/main/reviews/agent_tool_calling_slm.md)|
 | Nov 2025 | Agent0: Unleashing Self-Evolving Agents from Zero Data via Tool-Integrated Reasoning | arXiv, Stanford | [Paper](https://arxiv.org/pdf/2511.16043) [Website](https://www.agent-zero.ai/)| evolution, self-improving | [Github](https://github.com/aiming-lab/Agent0) | |
