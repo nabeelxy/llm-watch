@@ -85,6 +85,7 @@ If you are interested in keeping up with LLM/Agent threat landscape, I encourage
 ### Agents
 | Date |Title | Venue | Materials | Tags | Code | Summary |
 | --- | --- | --- | --- | --- | --- | --- |
+| Mar 2026 | SkillNet: Create, Evaluate, and Connect AI Skills | arXiv| [Paper](https://arxiv.org/pdf/2603.04448) | skills, hub, vetted | | |
 | Feb 2026 | Towards a Science of AI Agent Reliability | arXiv, Princeton | [Paper](https://arxiv.org/pdf/2602.16666) | consistency, predictability, reliablity, safety | | |
 | Feb 2026 | Collective Behavior of AI Agents: the Case of Moltbook | arXiv | [Paper](https://arxiv.org/pdf/2602.09270) | openclaw, social network, behavior, moltbook | | |
 | Jan 2026 | A Survey on Agent-as-a-Judge | arXiv | [Paper](https://arxiv.org/pdf/2601.05111) [NotebookLM](https://notebooklm.google.com/notebook/845ac370-ad64-425a-b6d0-22cec3b0691b)| llm-as-a-judge, evals | [Github](https://github.com/ModalityDance/Awesome-Agent-as-a-Judge) | [Review](https://github.com/nabeelxy/llm-watch/blob/main/reviews/survey_agent_as_a_judge.md)|
