@@ -184,6 +184,7 @@ If you are interested in keeping up with LLM/Agent threat landscape, I encourage
 ### Blog posts
 * [2026-03-06] [Blog](https://openai.com/index/codex-security-now-in-research-preview/) Codex Security: now in research preview by OpenAI. #code #vulnerabilty #security
 * [2026-02-26] [Blog](https://www.anthropic.com/news/detecting-and-preventing-distillation-attacks) Detecting and preventing distillation attacks by Anthropic. #distillation #unethical #security
+* [2026-01-29] [Whitepaper](https://claude.com/blog/complete-guide-to-building-skills-for-claude) A complete guide to building skills for Claude by Anthropic. #agent #skills
 * [2026-01-10] [Essay](https://www.darioamodei.com/essay/the-adolescence-of-technology) The Adolescence of Technology by Dario Amodei. #ai #future
 * [2026-01-09] [Blog](https://www.anthropic.com/engineering/demystifying-evals-for-ai-agents) Demystifying evals for AI agents by Anthropic. #agent #evals
 * [2025-12-19] [Blog](https://karpathy.bearblog.dev/year-in-review-2025/) 2025 LLM Year in Review by Andrey Karpathy. #llm #2025 #RLVR #Cursor #VibeCoding #ClaudeCode #NanoBanana
