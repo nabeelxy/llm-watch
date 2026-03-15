@@ -85,6 +85,7 @@ If you are interested in keeping up with LLM/Agent threat landscape, I encourage
 ### Agents
 | Date |Title | Venue | Materials | Tags | Code | Summary |
 | --- | --- | --- | --- | --- | --- | --- |
+| Mar 2026 | Building Effective AI Coding Agents for the Terminal: Scaffolding, Harness, Context Engineering, and Lessons Learned | arXiv | [Paper](https://arxiv.org/pdf/2603.05344) | coding agent, opendev | [Github](https://github.com/opendev-to/opendev) | |
 | Mar 2026 | SkillNet: Create, Evaluate, and Connect AI Skills | arXiv| [Paper](https://arxiv.org/pdf/2603.04448) | skills, hub, vetted | | |
 | Feb 2026 | Towards a Science of AI Agent Reliability | arXiv, Princeton | [Paper](https://arxiv.org/pdf/2602.16666) | consistency, predictability, reliablity, safety | | |
 | Feb 2026 | Collective Behavior of AI Agents: the Case of Moltbook | arXiv | [Paper](https://arxiv.org/pdf/2602.09270) | openclaw, social network, behavior, moltbook | | |
