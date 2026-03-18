@@ -229,6 +229,7 @@ If you are interested in keeping up with LLM/Agent threat landscape, I encourage
 
 
 ### Notable Repos
+* [context-hub](https://github.com/andrewyng/context-hub) context-hub: vetted apis for agents by Andrew Ng and team. #context #reduce-hallucination (10k stars as of Mar 2026)
 * [Claude-Mem](https://github.com/thedotmack/claude-mem) Claude-Mem: A Claude Code plugin that automatically captures everything Claude does. (16k stars as of Jan 2026)
 * [ContextFort](https://github.com/ContextFort-AI/ContextFort) ContextFort: Visibility for browser agents. 
 * [AirLLM](https://github.com/lyogavin/airllm) AirLLM: 70B inference with single 4GB GPU. (10.3k stars as of Jan 2026)
