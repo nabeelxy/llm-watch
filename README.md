@@ -184,6 +184,7 @@ If you are interested in keeping up with LLM/Agent threat landscape, I encourage
 | 1997 | Long Short-Term Memory | Neural Computation, MIT | [Paper](https://deeplearning.cs.cmu.edu/S23/document/readings/LSTM.pdf) [NotebookLM](https://notebooklm.google.com/notebook/659a2cee-c528-4849-b208-b75fadd72b4f?authuser=4) [Podcast](https://notebooklm.google.com/notebook/659a2cee-c528-4849-b208-b75fadd72b4f/audio)|  LSTM | | |
 
 ### Blog posts
+* [2026-03-10] [Blog](https://openai.com/index/instruction-hierarchy-challenge/) Improving instruction hierarchy in frontier LLMs by OpenAI. #instruction-hierarchy #prompt-injection-safe #hardening
 * [2026-03-06] [Blog](https://openai.com/index/codex-security-now-in-research-preview/) Codex Security: now in research preview by OpenAI. #code #vulnerabilty #security
 * [2026-02-26] [Blog](https://www.anthropic.com/news/detecting-and-preventing-distillation-attacks) Detecting and preventing distillation attacks by Anthropic. #distillation #unethical #security
 * [2026-01-29] [Whitepaper](https://claude.com/blog/complete-guide-to-building-skills-for-claude) A complete guide to building skills for Claude by Anthropic. #agent #skills
